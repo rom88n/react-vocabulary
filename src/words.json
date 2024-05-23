@@ -1,32 +1,7012 @@
 [
   {
-    "word": "word 1",
-    "translation": "слово 1",
-    "example": "Some sentence with word 1"
+    "word": "abandon",
+    "translation": "покидать",
+    "example": "She decided to abandon the project due to lack of resources."
   },
   {
-    "word": "word 2",
-    "translation": "слово 2",
-    "example": "Some sentence with word 2"
+    "word": "absolute",
+    "translation": "абсолютный",
+    "example": "He had absolute confidence in his abilities."
   },
   {
-    "word": "word 3",
-    "translation": "слово 3",
-    "example": "Some sentence with word 3"
+    "word": "absorb",
+    "translation": "впитывать",
+    "example": "The sponge can absorb a lot of water."
   },
   {
-    "word": "word 4",
-    "translation": "слово 4",
-    "example": "Some sentence with word 4"
+    "word": "abstract",
+    "translation": "абстрактный",
+    "example": "The artist's work is very abstract and open to interpretation."
   },
   {
-    "word": "word 5",
-    "translation": "слово 5",
-    "example": "Some sentence with word 5"
+    "word": "academic",
+    "translation": "академический",
+    "example": "She received an award for her academic achievements."
   },
   {
-    "word": "word 6",
-    "translation": "слово 6",
-    "example": "Some sentence with word 6"
+    "word": "accent",
+    "translation": "акцент",
+    "example": "He spoke English with a French accent."
+  },
+  {
+    "word": "acceptable",
+    "translation": "приемлемый",
+    "example": "The solution was acceptable to all parties involved."
+  },
+  {
+    "word": "accidentally",
+    "translation": "случайно",
+    "example": "She accidentally deleted the important file."
+  },
+  {
+    "word": "accommodate",
+    "translation": "размещать",
+    "example": "The hotel can accommodate up to 500 guests."
+  },
+  {
+    "word": "accommodation",
+    "translation": "жилье",
+    "example": "They found comfortable accommodation in the city."
+  },
+  {
+    "word": "accompany",
+    "translation": "сопровождать",
+    "example": "She asked him to accompany her to the event."
+  },
+  {
+    "word": "accomplish",
+    "translation": "выполнять",
+    "example": "They were able to accomplish all their goals on time."
+  },
+  {
+    "word": "account",
+    "translation": "учетная запись",
+    "example": "She created a new account on the social media platform."
+  },
+  {
+    "word": "accountant",
+    "translation": "бухгалтер",
+    "example": "The accountant prepared the financial statements."
+  },
+  {
+    "word": "accuracy",
+    "translation": "точность",
+    "example": "Accuracy is important when measuring ingredients for a recipe."
+  },
+  {
+    "word": "accurate",
+    "translation": "точный",
+    "example": "The report needs to be accurate and detailed."
+  },
+  {
+    "word": "accurately",
+    "translation": "точно",
+    "example": "She was able to accurately describe the events of the day."
+  },
+  {
+    "word": "accuse",
+    "translation": "обвинять",
+    "example": "He was quick to accuse her of lying."
+  },
+  {
+    "word": "acknowledge",
+    "translation": "признавать",
+    "example": "He refused to acknowledge his mistakes."
+  },
+  {
+    "word": "acquire",
+    "translation": "приобретать",
+    "example": "She managed to acquire a new skill over the summer."
+  },
+  {
+    "word": "acre",
+    "translation": "акр",
+    "example": "They bought a 10-acre farm in the countryside."
+  },
+  {
+    "word": "activate",
+    "translation": "активировать",
+    "example": "You need to activate your account before using it."
+  },
+  {
+    "word": "actual",
+    "translation": "фактический",
+    "example": "The actual cost was higher than the estimated cost."
+  },
+  {
+    "word": "adapt",
+    "translation": "адаптироваться",
+    "example": "They had to adapt to the new environment quickly."
+  },
+  {
+    "word": "addiction",
+    "translation": "зависимость",
+    "example": "He struggled with his addiction for many years."
+  },
+  {
+    "word": "additional",
+    "translation": "дополнительный",
+    "example": "We need additional information to process your request."
+  },
+  {
+    "word": "additionally",
+    "translation": "дополнительно",
+    "example": "Additionally, the report includes several case studies."
+  },
+  {
+    "word": "address",
+    "translation": "адрес",
+    "example": "Please provide your mailing address."
+  },
+  {
+    "word": "adequate",
+    "translation": "адекватный",
+    "example": "The food supply is adequate for the needs of the community."
+  },
+  {
+    "word": "adequately",
+    "translation": "адекватно",
+    "example": "The issue was adequately addressed in the meeting."
+  },
+  {
+    "word": "adjust",
+    "translation": "регулировать",
+    "example": "You can adjust the volume using this knob."
+  },
+  {
+    "word": "administration",
+    "translation": "администрация",
+    "example": "The administration is responsible for policy decisions."
+  },
+  {
+    "word": "adopt",
+    "translation": "усыновлять",
+    "example": "They decided to adopt a child from abroad."
+  },
+  {
+    "word": "advance",
+    "translation": "продвигаться",
+    "example": "The troops continued to advance towards the city."
+  },
+  {
+    "word": "affair",
+    "translation": "дело",
+    "example": "She managed the affair with great skill."
+  },
+  {
+    "word": "affordable",
+    "translation": "доступный по цене",
+    "example": "The company provides affordable healthcare plans."
+  },
+  {
+    "word": "afterwards",
+    "translation": "впоследствии",
+    "example": "We went out for dinner afterwards."
+  },
+  {
+    "word": "aged",
+    "translation": "пожилой",
+    "example": "The aged man walked slowly down the street."
+  },
+  {
+    "word": "agency",
+    "translation": "агентство",
+    "example": "She works for an advertising agency."
+  },
+  {
+    "word": "agenda",
+    "translation": "повестка дня",
+    "example": "The first item on the agenda is the budget."
+  },
+  {
+    "word": "aggressive",
+    "translation": "агрессивный",
+    "example": "He became aggressive during the argument."
+  },
+  {
+    "word": "agriculture",
+    "translation": "сельское хозяйство",
+    "example": "Agriculture is the main industry in this region."
+  },
+  {
+    "word": "aid",
+    "translation": "помощь",
+    "example": "The organization provides aid to disaster victims."
+  },
+  {
+    "word": "AIDS",
+    "translation": "СПИД",
+    "example": "AIDS remains a major global health issue."
+  },
+  {
+    "word": "aircraft",
+    "translation": "самолет",
+    "example": "The aircraft landed safely despite the storm."
+  },
+  {
+    "word": "alarm",
+    "translation": "тревога",
+    "example": "The alarm went off at midnight."
+  },
+  {
+    "word": "alien",
+    "translation": "инопланетянин",
+    "example": "They claimed to have seen an alien spaceship."
+  },
+  {
+    "word": "alongside",
+    "translation": "рядом с",
+    "example": "The new park is located alongside the river."
+  },
+  {
+    "word": "alter",
+    "translation": "изменять",
+    "example": "She had to alter her plans due to the weather."
+  },
+  {
+    "word": "altogether",
+    "translation": "в целом",
+    "example": "Altogether, it was a successful trip."
+  },
+  {
+    "word": "ambitious",
+    "translation": "амбициозный",
+    "example": "He is very ambitious and aims to be the CEO one day."
+  },
+  {
+    "word": "amount",
+    "translation": "количество",
+    "example": "The amount of work required was overwhelming."
+  },
+  {
+    "word": "amusing",
+    "translation": "забавный",
+    "example": "Her story was very amusing and made everyone laugh."
+  },
+  {
+    "word": "analyst",
+    "translation": "аналитик",
+    "example": "The financial analyst gave a positive outlook for the company."
+  },
+  {
+    "word": "ancestor",
+    "translation": "предок",
+    "example": "He researched his family tree and found out about his ancestors."
+  },
+  {
+    "word": "anger",
+    "translation": "гнев",
+    "example": "He struggled to control his anger during the confrontation."
+  },
+  {
+    "word": "angle",
+    "translation": "угол",
+    "example": "The photo was taken from an interesting angle."
+  },
+  {
+    "word": "animation",
+    "translation": "анимация",
+    "example": "The animation in the movie was impressive."
+  },
+  {
+    "word": "anniversary",
+    "translation": "годовщина",
+    "example": "They celebrated their wedding anniversary with a trip."
+  },
+  {
+    "word": "annual",
+    "translation": "ежегодный",
+    "example": "The annual meeting is scheduled for next month."
+  },
+  {
+    "word": "annually",
+    "translation": "ежегодно",
+    "example": "The event is held annually in July."
+  },
+  {
+    "word": "anticipate",
+    "translation": "ожидать",
+    "example": "We anticipate that the project will be completed on time."
+  },
+  {
+    "word": "anxiety",
+    "translation": "тревога",
+    "example": "She felt a lot of anxiety before the exam."
+  },
+  {
+    "word": "anxious",
+    "translation": "беспокойный",
+    "example": "He was anxious about the upcoming interview."
+  },
+  {
+    "word": "apology",
+    "translation": "извинение",
+    "example": "She offered an apology for being late."
+  },
+  {
+    "word": "apparent",
+    "translation": "очевидный",
+    "example": "It was apparent that he was not happy with the decision."
+  },
+  {
+    "word": "apparently",
+    "translation": "очевидно",
+    "example": "Apparently, he forgot to send the email."
+  },
+  {
+    "word": "appeal",
+    "translation": "обращение",
+    "example": "The charity made an appeal for donations."
+  },
+  {
+    "word": "applicant",
+    "translation": "заявитель",
+    "example": "Each applicant must submit a resume and cover letter."
+  },
+  {
+    "word": "approach",
+    "translation": "подход",
+    "example": "She took a different approach to solving the problem."
+  },
+  {
+    "word": "appropriate",
+    "translation": "подходящий",
+    "example": "It is important to wear appropriate clothing for the interview."
+  },
+  {
+    "word": "appropriately",
+    "translation": "подходящим образом",
+    "example": "He behaved appropriately during the formal event."
+  },
+  {
+    "word": "approval",
+    "translation": "одобрение",
+    "example": "The project received approval from the board."
+  },
+  {
+    "word": "approve",
+    "translation": "одобрять",
+    "example": "The manager must approve all expenses."
+  },
+  {
+    "word": "arise",
+    "translation": "возникать",
+    "example": "Problems may arise if we don't address the issue now."
+  },
+  {
+    "word": "armed",
+    "translation": "вооруженный",
+    "example": "The bank was robbed by an armed gang."
+  },
+  {
+    "word": "arms",
+    "translation": "оружие",
+    "example": "The country was stockpiling arms in preparation for conflict."
+  },
+  {
+    "word": "arrow",
+    "translation": "стрела",
+    "example": "The arrow hit the target perfectly."
+  },
+  {
+    "word": "artificial",
+    "translation": "искусственный",
+    "example": "The plant was made of artificial materials."
+  },
+  {
+    "word": "artistic",
+    "translation": "художественный",
+    "example": "She has a very artistic style in her drawings."
+  },
+  {
+    "word": "artwork",
+    "translation": "произведение искусства",
+    "example": "The gallery featured contemporary artwork."
+  },
+  {
+    "word": "ashamed",
+    "translation": "стыдиться",
+    "example": "He felt ashamed of his behavior."
+  },
+  {
+    "word": "aspect",
+    "translation": "аспект",
+    "example": "We need to consider every aspect of the project."
+  },
+  {
+    "word": "assess",
+    "translation": "оценивать",
+    "example": "The teacher will assess the students' progress."
+  },
+  {
+    "word": "assessment",
+    "translation": "оценка",
+    "example": "The assessment will take place next week."
+  },
+  {
+    "word": "asset",
+    "translation": "актив",
+    "example": "The company has many valuable assets."
+  },
+  {
+    "word": "assign",
+    "translation": "назначать",
+    "example": "The manager will assign tasks to each team member."
+  },
+  {
+    "word": "assistance",
+    "translation": "помощь",
+    "example": "She needed assistance with her homework."
+  },
+  {
+    "word": "associate",
+    "translation": "ассоциировать",
+    "example": "People often associate the smell of cookies with home."
+  },
+  {
+    "word": "associated",
+    "translation": "связанный",
+    "example": "He is associated with the local community center."
+  },
+  {
+    "word": "association",
+    "translation": "ассоциация",
+    "example": "The association held its annual meeting."
+  },
+  {
+    "word": "assume",
+    "translation": "предполагать",
+    "example": "I assume he will be here by noon."
+  },
+  {
+    "word": "assumption",
+    "translation": "предположение",
+    "example": "Her assumption was proven correct."
+  },
+  {
+    "word": "assure",
+    "translation": "уверять",
+    "example": "He tried to assure her that everything would be fine."
+  },
+  {
+    "word": "astonishing",
+    "translation": "удивительный",
+    "example": "The view from the top of the mountain was astonishing."
+  },
+  {
+    "word": "athletic",
+    "translation": "спортивный",
+    "example": "She has an athletic build and loves playing sports."
+  },
+  {
+    "word": "attachment",
+    "translation": "вложение",
+    "example": "Please find the report attached as an attachment to this email."
+  },
+  {
+    "word": "attempt",
+    "translation": "попытка",
+    "example": "He made an attempt to climb the mountain."
+  },
+  {
+    "word": "audio",
+    "translation": "аудио",
+    "example": "The audio quality of the recording was excellent."
+  },
+  {
+    "word": "awareness",
+    "translation": "осведомленность",
+    "example": "The campaign aims to raise awareness about environmental issues."
+  },
+  {
+    "word": "awkward",
+    "translation": "неловкий",
+    "example": "The conversation was awkward and uncomfortable."
+  },
+  {
+    "word": "back",
+    "translation": "назад",
+    "example": "He turned back to look at the house one last time."
+  },
+  {
+    "word": "bacteria",
+    "translation": "бактерии",
+    "example": "Some bacteria are beneficial to human health."
+  },
+  {
+    "word": "badge",
+    "translation": "значок",
+    "example": "She wore a badge with her name on it."
+  },
+  {
+    "word": "balanced",
+    "translation": "сбалансированный",
+    "example": "It's important to have a balanced diet."
+  },
+  {
+    "word": "ballet",
+    "translation": "балет",
+    "example": "She has been taking ballet lessons since she was a child."
+  },
+  {
+    "word": "balloon",
+    "translation": "воздушный шар",
+    "example": "The children were excited to see the colorful balloon."
+  },
+  {
+    "word": "bar",
+    "translation": "бар",
+    "example": "They went to a bar to relax after work."
+  },
+  {
+    "word": "barely",
+    "translation": "едва",
+    "example": "She could barely hear the speaker over the noise."
+  },
+  {
+    "word": "bargain",
+    "translation": "выгодная сделка",
+    "example": "She found a great bargain at the market."
+  },
+  {
+    "word": "barrier",
+    "translation": "барьер",
+    "example": "Language can be a barrier to communication."
+  },
+  {
+    "word": "basement",
+    "translation": "подвал",
+    "example": "The basement is used for storage."
+  },
+  {
+    "word": "basically",
+    "translation": "в основном",
+    "example": "Basically, the problem is that we need more time."
+  },
+  {
+    "word": "basket",
+    "translation": "корзина",
+    "example": "She carried a basket of fresh fruit."
+  },
+  {
+    "word": "bat",
+    "translation": "летучая мышь",
+    "example": "A bat flew out of the cave."
+  },
+  {
+    "word": "battle",
+    "translation": "битва",
+    "example": "The battle lasted for several hours."
+  },
+  {
+    "word": "bear (deal with)",
+    "translation": "терпеть",
+    "example": "I can't bear the thought of losing you."
+  },
+  {
+    "word": "beat",
+    "translation": "побеждать",
+    "example": "They managed to beat the opposing team."
+  },
+  {
+    "word": "beg",
+    "translation": "умолять",
+    "example": "He begged her to stay."
+  },
+  {
+    "word": "being",
+    "translation": "существо",
+    "example": "Every living being deserves respect."
+  },
+  {
+    "word": "beneficial",
+    "translation": "полезный",
+    "example": "Regular exercise is beneficial to your health."
+  },
+  {
+    "word": "bent",
+    "translation": "изогнутый",
+    "example": "The wire was bent out of shape."
+  },
+  {
+    "word": "beside",
+    "translation": "рядом с",
+    "example": "He sat beside her during the concert."
+  },
+  {
+    "word": "besides",
+    "translation": "кроме",
+    "example": "Besides English, she speaks three other languages."
+  },
+  {
+    "word": "bet",
+    "translation": "ставка",
+    "example": "He placed a bet on the winning horse."
+  },
+  {
+    "word": "beyond",
+    "translation": "за пределами",
+    "example": "The village is beyond the mountains."
+  },
+  {
+    "word": "bias",
+    "translation": "предвзятость",
+    "example": "The article showed a clear bias against the candidate."
+  },
+  {
+    "word": "bid",
+    "translation": "предложение",
+    "example": "They made a bid to buy the company."
+  },
+  {
+    "word": "bill",
+    "translation": "счет",
+    "example": "The waiter brought the bill after the meal."
+  },
+  {
+    "word": "bitter",
+    "translation": "горький",
+    "example": "The coffee tasted bitter without sugar."
+  },
+  {
+    "word": "blame",
+    "translation": "обвинять",
+    "example": "Don't blame me for your mistakes."
+  },
+  {
+    "word": "blanket",
+    "translation": "одеяло",
+    "example": "She wrapped herself in a warm blanket."
+  },
+  {
+    "word": "blind",
+    "translation": "слепой",
+    "example": "He has been blind since birth."
+  },
+  {
+    "word": "blow",
+    "translation": "удар",
+    "example": "The boxer delivered a powerful blow to his opponent."
+  },
+  {
+    "word": "bold",
+    "translation": "смелый",
+    "example": "She made a bold decision to start her own business."
+  },
+  {
+    "word": "bombing",
+    "translation": "бомбардировка",
+    "example": "The bombing caused widespread destruction."
+  },
+  {
+    "word": "bond",
+    "translation": "связь",
+    "example": "They share a strong bond of friendship."
+  },
+  {
+    "word": "boost",
+    "translation": "повышать",
+    "example": "The new policy will boost the economy."
+  },
+  {
+    "word": "border",
+    "translation": "граница",
+    "example": "They crossed the border into Canada."
+  },
+  {
+    "word": "bound",
+    "translation": "связанный",
+    "example": "She felt bound to help her friend in need."
+  },
+  {
+    "word": "breast",
+    "translation": "грудь",
+    "example": "She was diagnosed with breast cancer."
+  },
+  {
+    "word": "brick",
+    "translation": "кирпич",
+    "example": "The house was built with red bricks."
+  },
+  {
+    "word": "brief",
+    "translation": "краткий",
+    "example": "He gave a brief overview of the project."
+  },
+  {
+    "word": "briefly",
+    "translation": "кратко",
+    "example": "She briefly explained the plan."
+  },
+  {
+    "word": "broad",
+    "translation": "широкий",
+    "example": "He has a broad understanding of the subject."
+  },
+  {
+    "word": "broadcast",
+    "translation": "трансляция",
+    "example": "The news was broadcast live on TV."
+  },
+  {
+    "word": "broadcaster",
+    "translation": "вещатель",
+    "example": "He is a well-known broadcaster in the country."
+  },
+  {
+    "word": "broadly",
+    "translation": "широко",
+    "example": "The policy is broadly supported by the public."
+  },
+  {
+    "word": "buck",
+    "translation": "доллар",
+    "example": "He spent only a few bucks on lunch."
+  },
+  {
+    "word": "budget",
+    "translation": "бюджет",
+    "example": "The project is over budget."
+  },
+  {
+    "word": "bug",
+    "translation": "ошибка",
+    "example": "They found a bug in the software."
+  },
+  {
+    "word": "bullet",
+    "translation": "пуля",
+    "example": "The bullet missed him by inches."
+  },
+  {
+    "word": "bunch",
+    "translation": "гроздь",
+    "example": "She gave me a bunch of flowers."
+  },
+  {
+    "word": "burn",
+    "translation": "гореть",
+    "example": "The fire continued to burn all night."
+  },
+  {
+    "word": "bush",
+    "translation": "куст",
+    "example": "They planted a bush in the garden."
+  },
+  {
+    "word": "but",
+    "translation": "но",
+    "example": "I wanted to go, but I couldn't."
+  },
+  {
+    "word": "cabin",
+    "translation": "каюта",
+    "example": "They stayed in a cabin by the lake."
+  },
+  {
+    "word": "cable",
+    "translation": "кабель",
+    "example": "The cable was too short to reach the outlet."
+  },
+  {
+    "word": "calculate",
+    "translation": "вычислять",
+    "example": "He can calculate complex equations quickly."
+  },
+  {
+    "word": "canal",
+    "translation": "канал",
+    "example": "The canal was used for transporting goods."
+  },
+  {
+    "word": "cancel",
+    "translation": "отменять",
+    "example": "They decided to cancel the meeting."
+  },
+  {
+    "word": "cancer",
+    "translation": "рак",
+    "example": "She was diagnosed with cancer last year."
+  },
+  {
+    "word": "candle",
+    "translation": "свеча",
+    "example": "She lit a candle to create a warm atmosphere."
+  },
+  {
+    "word": "capable",
+    "translation": "способный",
+    "example": "He is capable of handling any situation."
+  },
+  {
+    "word": "capacity",
+    "translation": "вместимость",
+    "example": "The hall has a seating capacity of 500 people."
+  },
+  {
+    "word": "capture",
+    "translation": "захватывать",
+    "example": "The police managed to capture the suspect."
+  },
+  {
+    "word": "carbon",
+    "translation": "углерод",
+    "example": "Carbon emissions are a major environmental concern."
+  },
+  {
+    "word": "cast",
+    "translation": "бросать",
+    "example": "She cast a stone into the river."
+  },
+  {
+    "word": "castle",
+    "translation": "замок",
+    "example": "They visited an old castle in Scotland."
+  },
+  {
+    "word": "casual",
+    "translation": "повседневный",
+    "example": "She prefers casual clothes for everyday wear."
+  },
+  {
+    "word": "catch",
+    "translation": "ловить",
+    "example": "He tried to catch the ball."
+  },
+  {
+    "word": "cave",
+    "translation": "пещера",
+    "example": "They explored a dark cave during their trip."
+  },
+  {
+    "word": "cell",
+    "translation": "клетка",
+    "example": "Each cell in the body has a specific function."
+  },
+  {
+    "word": "certainty",
+    "translation": "уверенность",
+    "example": "There is no certainty in this business."
+  },
+  {
+    "word": "certificate",
+    "translation": "сертификат",
+    "example": "She received a certificate of completion."
+  },
+  {
+    "word": "chain",
+    "translation": "цепь",
+    "example": "The dog was tied to a chain."
+  },
+  {
+    "word": "chair",
+    "translation": "стул",
+    "example": "He sat down on the chair."
+  },
+  {
+    "word": "chairman",
+    "translation": "председатель",
+    "example": "The chairman opened the meeting."
+  },
+  {
+    "word": "challenge",
+    "translation": "вызов",
+    "example": "The new job is a great challenge."
+  },
+  {
+    "word": "challenging",
+    "translation": "сложный",
+    "example": "The course is challenging but rewarding."
+  },
+  {
+    "word": "championship",
+    "translation": "чемпионат",
+    "example": "They won the championship last year."
+  },
+  {
+    "word": "characteristic",
+    "translation": "характеристика",
+    "example": "A characteristic of the breed is its large size."
+  },
+  {
+    "word": "charming",
+    "translation": "очаровательный",
+    "example": "He has a charming smile."
+  },
+  {
+    "word": "chart",
+    "translation": "диаграмма",
+    "example": "The chart shows the company's growth over the years."
+  },
+  {
+    "word": "chase",
+    "translation": "преследовать",
+    "example": "The dog loves to chase its tail."
+  },
+  {
+    "word": "cheek",
+    "translation": "щека",
+    "example": "She kissed him on the cheek."
+  },
+  {
+    "word": "cheer",
+    "translation": "приветствовать",
+    "example": "The crowd began to cheer as the team scored."
+  },
+  {
+    "word": "chief",
+    "translation": "главный",
+    "example": "He is the chief executive officer of the company."
+  },
+  {
+    "word": "chop",
+    "translation": "рубить",
+    "example": "He used an axe to chop wood."
+  },
+  {
+    "word": "circuit",
+    "translation": "схема",
+    "example": "The circuit was tested for any faults."
+  },
+  {
+    "word": "circumstance",
+    "translation": "обстоятельство",
+    "example": "Under the circumstances, it was the best decision."
+  },
+  {
+    "word": "cite",
+    "translation": "цитировать",
+    "example": "She was asked to cite her sources in the report."
+  },
+  {
+    "word": "citizen",
+    "translation": "гражданин",
+    "example": "He is a citizen of the United States."
+  },
+  {
+    "word": "civil",
+    "translation": "гражданский",
+    "example": "Civil rights are fundamental to a fair society."
+  },
+  {
+    "word": "civilization",
+    "translation": "цивилизация",
+    "example": "Ancient Egypt is one of the oldest civilizations."
+  },
+  {
+    "word": "clarify",
+    "translation": "прояснять",
+    "example": "Can you clarify what you mean by that statement?"
+  },
+  {
+    "word": "classic",
+    "translation": "классический",
+    "example": "She prefers classic literature."
+  },
+  {
+    "word": "classify",
+    "translation": "классифицировать",
+    "example": "The library classifies books by subject."
+  },
+  {
+    "word": "cliff",
+    "translation": "утес",
+    "example": "The view from the top of the cliff was breathtaking."
+  },
+  {
+    "word": "clinic",
+    "translation": "клиника",
+    "example": "She visited the clinic for a check-up."
+  },
+  {
+    "word": "clip",
+    "translation": "клип",
+    "example": "She watched a clip from the new movie."
+  },
+  {
+    "word": "close",
+    "translation": "закрывать",
+    "example": "Please close the door when you leave."
+  },
+  {
+    "word": "closely",
+    "translation": "внимательно",
+    "example": "He closely examined the evidence."
+  },
+  {
+    "word": "coincidence",
+    "translation": "совпадение",
+    "example": "It was a strange coincidence that they met again."
+  },
+  {
+    "word": "collapse",
+    "translation": "коллапс",
+    "example": "The building collapsed after the earthquake."
+  },
+  {
+    "word": "collector",
+    "translation": "коллекционер",
+    "example": "He is a collector of rare coins."
+  },
+  {
+    "word": "colony",
+    "translation": "колония",
+    "example": "The country was once a British colony."
+  },
+  {
+    "word": "colorful",
+    "translation": "красочный",
+    "example": "The garden was full of colorful flowers."
+  },
+  {
+    "word": "combination",
+    "translation": "сочетание",
+    "example": "The combination of flavors was delicious."
+  },
+  {
+    "word": "comfort",
+    "translation": "комфорт",
+    "example": "She found comfort in reading books."
+  },
+  {
+    "word": "comic",
+    "translation": "комический",
+    "example": "He has a great sense of comic timing."
+  },
+  {
+    "word": "command",
+    "translation": "команда",
+    "example": "The general gave a command to advance."
+  },
+  {
+    "word": "commander",
+    "translation": "командир",
+    "example": "The commander led his troops into battle."
+  },
+  {
+    "word": "commission",
+    "translation": "комиссия",
+    "example": "The commission was tasked with investigating the issue."
+  },
+  {
+    "word": "commitment",
+    "translation": "обязательство",
+    "example": "He made a commitment to improve his performance."
+  },
+  {
+    "word": "committee",
+    "translation": "комитет",
+    "example": "The committee will review the proposal next week."
+  },
+  {
+    "word": "commonly",
+    "translation": "обычно",
+    "example": "This plant is commonly found in tropical regions."
+  },
+  {
+    "word": "comparative",
+    "translation": "сравнительный",
+    "example": "She conducted a comparative study of different cultures."
+  },
+  {
+    "word": "completion",
+    "translation": "завершение",
+    "example": "The completion of the project was delayed."
+  },
+  {
+    "word": "complex",
+    "translation": "сложный",
+    "example": "The instructions were complex and difficult to follow."
+  },
+  {
+    "word": "complicated",
+    "translation": "сложный",
+    "example": "The situation is very complicated and requires careful handling."
+  },
+  {
+    "word": "component",
+    "translation": "компонент",
+    "example": "Each component of the machine is essential."
+  },
+  {
+    "word": "compose",
+    "translation": "сочинять",
+    "example": "He likes to compose music in his free time."
+  },
+  {
+    "word": "composer",
+    "translation": "композитор",
+    "example": "Beethoven is a famous composer."
+  },
+  {
+    "word": "compound",
+    "translation": "соединение",
+    "example": "The chemical compound is used in various industries."
+  },
+  {
+    "word": "comprehensive",
+    "translation": "всесторонний",
+    "example": "The report provides a comprehensive analysis of the data."
+  },
+  {
+    "word": "comprise",
+    "translation": "включать",
+    "example": "The committee is comprised of experts in the field."
+  },
+  {
+    "word": "compulsory",
+    "translation": "обязательный",
+    "example": "Education is compulsory for children up to a certain age."
+  },
+  {
+    "word": "concentration",
+    "translation": "концентрация",
+    "example": "This task requires a high level of concentration."
+  },
+  {
+    "word": "concept",
+    "translation": "понятие",
+    "example": "The concept of time travel fascinates many people."
+  },
+  {
+    "word": "concern",
+    "translation": "беспокойство",
+    "example": "Her main concern is the safety of her children."
+  },
+  {
+    "word": "concerned",
+    "translation": "обеспокоенный",
+    "example": "He is concerned about the future of the company."
+  },
+  {
+    "word": "conduct",
+    "translation": "проводить",
+    "example": "The scientist will conduct an experiment."
+  },
+  {
+    "word": "confess",
+    "translation": "признаваться",
+    "example": "He confessed to the crime."
+  },
+  {
+    "word": "confidence",
+    "translation": "уверенность",
+    "example": "She has a lot of confidence in her abilities."
+  },
+  {
+    "word": "conflict",
+    "translation": "конфликт",
+    "example": "The conflict between the two countries escalated."
+  },
+  {
+    "word": "confusing",
+    "translation": "сбивающий с толку",
+    "example": "The instructions were confusing and hard to follow."
+  },
+  {
+    "word": "confusion",
+    "translation": "путаница",
+    "example": "There was a lot of confusion about the schedule."
+  },
+  {
+    "word": "conscious",
+    "translation": "сознательный",
+    "example": "He was conscious of the need to act quickly."
+  },
+  {
+    "word": "consequently",
+    "translation": "следовательно",
+    "example": "The project was delayed, and consequently, the deadline was extended."
+  },
+  {
+    "word": "conservation",
+    "translation": "сохранение",
+    "example": "They are working on the conservation of endangered species."
+  },
+  {
+    "word": "conservative",
+    "translation": "консервативный",
+    "example": "She has conservative views on politics."
+  },
+  {
+    "word": "considerable",
+    "translation": "значительный",
+    "example": "He has a considerable amount of experience in the field."
+  },
+  {
+    "word": "considerably",
+    "translation": "значительно",
+    "example": "The weather has improved considerably."
+  },
+  {
+    "word": "consideration",
+    "translation": "рассмотрение",
+    "example": "Thank you for your consideration."
+  },
+  {
+    "word": "consistent",
+    "translation": "последовательный",
+    "example": "She is consistent in her work habits."
+  },
+  {
+    "word": "consistently",
+    "translation": "последовательно",
+    "example": "He has consistently performed well in his job."
+  },
+  {
+    "word": "conspiracy",
+    "translation": "заговор",
+    "example": "They were accused of being part of a conspiracy."
+  },
+  {
+    "word": "constant",
+    "translation": "постоянный",
+    "example": "The noise from the construction was constant."
+  },
+  {
+    "word": "constantly",
+    "translation": "постоянно",
+    "example": "She is constantly looking for new opportunities."
+  },
+  {
+    "word": "construct",
+    "translation": "строить",
+    "example": "They plan to construct a new building next year."
+  },
+  {
+    "word": "construction",
+    "translation": "строительство",
+    "example": "The construction of the bridge took two years."
+  },
+  {
+    "word": "consult",
+    "translation": "консультироваться",
+    "example": "You should consult a doctor if you have any health concerns."
+  },
+  {
+    "word": "consultant",
+    "translation": "консультант",
+    "example": "He works as a financial consultant."
+  },
+  {
+    "word": "consumption",
+    "translation": "потребление",
+    "example": "The consumption of electricity increases in the summer."
+  },
+  {
+    "word": "contemporary",
+    "translation": "современный",
+    "example": "She enjoys contemporary art."
+  },
+  {
+    "word": "contest",
+    "translation": "соревнование",
+    "example": "He won the contest for the best photograph."
+  },
+  {
+    "word": "contract",
+    "translation": "контракт",
+    "example": "She signed a contract with the company."
+  },
+  {
+    "word": "contribute",
+    "translation": "вносить вклад",
+    "example": "Everyone is encouraged to contribute ideas."
+  },
+  {
+    "word": "contribution",
+    "translation": "вклад",
+    "example": "Her contribution to the project was invaluable."
+  },
+  {
+    "word": "controversial",
+    "translation": "спорный",
+    "example": "The new law is highly controversial."
+  },
+  {
+    "word": "controversy",
+    "translation": "спор",
+    "example": "The decision caused a lot of controversy."
+  },
+  {
+    "word": "convenience",
+    "translation": "удобство",
+    "example": "The store's location offers great convenience."
+  },
+  {
+    "word": "convention",
+    "translation": "съезд",
+    "example": "The annual convention was attended by thousands of people."
+  },
+  {
+    "word": "conventional",
+    "translation": "традиционный",
+    "example": "They use conventional methods in their research."
+  },
+  {
+    "word": "convert",
+    "translation": "преобразовывать",
+    "example": "They plan to convert the old school into a community center."
+  },
+  {
+    "word": "convey",
+    "translation": "передавать",
+    "example": "The message was conveyed clearly."
+  },
+  {
+    "word": "convinced",
+    "translation": "убежденный",
+    "example": "She was convinced of his innocence."
+  },
+  {
+    "word": "convincing",
+    "translation": "убедительный",
+    "example": "His argument was very convincing."
+  },
+  {
+    "word": "cop",
+    "translation": "полицейский",
+    "example": "The cop chased the thief through the alley."
+  },
+  {
+    "word": "cope",
+    "translation": "справляться",
+    "example": "She found it difficult to cope with the stress."
+  },
+  {
+    "word": "core",
+    "translation": "ядро",
+    "example": "The core of the problem is lack of funding."
+  },
+  {
+    "word": "corporate",
+    "translation": "корпоративный",
+    "example": "He works in the corporate sector."
+  },
+  {
+    "word": "corporation",
+    "translation": "корпорация",
+    "example": "The corporation announced a new business strategy."
+  },
+  {
+    "word": "corridor",
+    "translation": "коридор",
+    "example": "The office is located at the end of the corridor."
+  },
+  {
+    "word": "council",
+    "translation": "совет",
+    "example": "The city council will vote on the proposal."
+  },
+  {
+    "word": "counter",
+    "translation": "прилавок",
+    "example": "She placed the groceries on the counter."
+  },
+  {
+    "word": "county",
+    "translation": "округ",
+    "example": "The county has a population of 200,000."
+  },
+  {
+    "word": "courage",
+    "translation": "мужество",
+    "example": "It takes a lot of courage to speak up."
+  },
+  {
+    "word": "coverage",
+    "translation": "покрытие",
+    "example": "The news coverage of the event was extensive."
+  },
+  {
+    "word": "cowboy",
+    "translation": "ковбой",
+    "example": "He dressed up as a cowboy for the party."
+  },
+  {
+    "word": "crack",
+    "translation": "трещина",
+    "example": "There is a crack in the wall."
+  },
+  {
+    "word": "crash",
+    "translation": "авария",
+    "example": "The car crash caused a major traffic jam."
+  },
+  {
+    "word": "creation",
+    "translation": "создание",
+    "example": "The creation of the new park was a community effort."
+  },
+  {
+    "word": "creativity",
+    "translation": "творчество",
+    "example": "Her creativity is evident in her artwork."
+  },
+  {
+    "word": "creature",
+    "translation": "существо",
+    "example": "They discovered a new creature in the rainforest."
+  },
+  {
+    "word": "credit",
+    "translation": "кредит",
+    "example": "She applied for a credit card."
+  },
+  {
+    "word": "crew",
+    "translation": "экипаж",
+    "example": "The ship's crew worked tirelessly."
+  },
+  {
+    "word": "crisis",
+    "translation": "кризис",
+    "example": "The company is facing a financial crisis."
+  },
+  {
+    "word": "criterion",
+    "translation": "критерий",
+    "example": "The main criterion for selection is experience."
+  },
+  {
+    "word": "critic",
+    "translation": "критик",
+    "example": "The film received praise from the critic."
+  },
+  {
+    "word": "critical",
+    "translation": "критический",
+    "example": "It is critical to address this issue immediately."
+  },
+  {
+    "word": "critically",
+    "translation": "критически",
+    "example": "He examined the proposal critically."
+  },
+  {
+    "word": "criticism",
+    "translation": "критика",
+    "example": "The plan faced a lot of criticism."
+  },
+  {
+    "word": "criticize",
+    "translation": "критиковать",
+    "example": "They were quick to criticize the new policy."
+  },
+  {
+    "word": "crop",
+    "translation": "урожай",
+    "example": "The crop yield was higher than expected."
+  },
+  {
+    "word": "crucial",
+    "translation": "решающий",
+    "example": "This decision is crucial for our future."
+  },
+  {
+    "word": "cruise",
+    "translation": "круиз",
+    "example": "They went on a cruise for their honeymoon."
+  },
+  {
+    "word": "cry",
+    "translation": "плакать",
+    "example": "She began to cry after hearing the bad news."
+  },
+  {
+    "word": "cue",
+    "translation": "сигнал",
+    "example": "He took her yawn as a cue to leave."
+  },
+  {
+    "word": "cure",
+    "translation": "лекарство",
+    "example": "They are working to find a cure for the disease."
+  },
+  {
+    "word": "curious",
+    "translation": "любопытный",
+    "example": "He was curious about the new neighbor."
+  },
+  {
+    "word": "current",
+    "translation": "текущий",
+    "example": "Her current address is different from the one on file."
+  },
+  {
+    "word": "curriculum",
+    "translation": "учебный план",
+    "example": "The school is updating its curriculum this year."
+  },
+  {
+    "word": "curve",
+    "translation": "изгиб",
+    "example": "The road curves sharply to the left."
+  },
+  {
+    "word": "curved",
+    "translation": "изогнутый",
+    "example": "The building has a curved roof."
+  },
+  {
+    "word": "cute",
+    "translation": "милый",
+    "example": "The puppy is so cute and playful."
+  },
+  {
+    "word": "dairy",
+    "translation": "молочный",
+    "example": "She is allergic to dairy products."
+  },
+  {
+    "word": "dare",
+    "translation": "осмеливаться",
+    "example": "He didn't dare to speak out against the decision."
+  },
+  {
+    "word": "darkness",
+    "translation": "темнота",
+    "example": "The room was filled with darkness after the lights went out."
+  },
+  {
+    "word": "database",
+    "translation": "база данных",
+    "example": "The company maintains a large customer database."
+  },
+  {
+    "word": "date",
+    "translation": "дата",
+    "example": "What is the date of the meeting?"
+  },
+  {
+    "word": "deadline",
+    "translation": "срок",
+    "example": "The deadline for the project is next Friday."
+  },
+  {
+    "word": "deadly",
+    "translation": "смертельный",
+    "example": "The snake's bite can be deadly."
+  },
+  {
+    "word": "dealer",
+    "translation": "дилер",
+    "example": "He is a car dealer."
+  },
+  {
+    "word": "debate",
+    "translation": "дебаты",
+    "example": "They had a heated debate about the new policy."
+  },
+  {
+    "word": "debt",
+    "translation": "долг",
+    "example": "She is struggling to pay off her debt."
+  },
+  {
+    "word": "decent",
+    "translation": "приличный",
+    "example": "He found a decent job in the city."
+  },
+  {
+    "word": "deck",
+    "translation": "палуба",
+    "example": "They enjoyed the view from the ship's deck."
+  },
+  {
+    "word": "declare",
+    "translation": "объявлять",
+    "example": "They declared their independence from the colonizers."
+  },
+  {
+    "word": "decline",
+    "translation": "снижаться",
+    "example": "The company's profits have declined this year."
+  },
+  {
+    "word": "decoration",
+    "translation": "украшение",
+    "example": "The room was filled with beautiful decorations."
+  },
+  {
+    "word": "decrease",
+    "translation": "уменьшаться",
+    "example": "There has been a decrease in the number of visitors."
+  },
+  {
+    "word": "deeply",
+    "translation": "глубоко",
+    "example": "She was deeply moved by the speech."
+  },
+  {
+    "word": "defeat",
+    "translation": "поражение",
+    "example": "The team faced a crushing defeat."
+  },
+  {
+    "word": "defence",
+    "translation": "защита",
+    "example": "The city built walls for defence against invaders."
+  },
+  {
+    "word": "defend",
+    "translation": "защищать",
+    "example": "They will defend their rights in court."
+  },
+  {
+    "word": "defender",
+    "translation": "защитник",
+    "example": "The defender blocked the shot."
+  },
+  {
+    "word": "delay",
+    "translation": "задержка",
+    "example": "There was a delay in the delivery."
+  },
+  {
+    "word": "delete",
+    "translation": "удалять",
+    "example": "Please delete the old files."
+  },
+  {
+    "word": "deliberate",
+    "translation": "умышленный",
+    "example": "It was a deliberate act of vandalism."
+  },
+  {
+    "word": "deliberately",
+    "translation": "умышленно",
+    "example": "She deliberately ignored his calls."
+  },
+  {
+    "word": "delight",
+    "translation": "восторг",
+    "example": "The children screamed with delight at the sight of the clown."
+  },
+  {
+    "word": "delighted",
+    "translation": "в восторге",
+    "example": "She was delighted with her new home."
+  },
+  {
+    "word": "delivery",
+    "translation": "доставка",
+    "example": "The delivery arrived on time."
+  },
+  {
+    "word": "demand",
+    "translation": "спрос",
+    "example": "There is a high demand for these products."
+  },
+  {
+    "word": "democracy",
+    "translation": "демократия",
+    "example": "They are fighting for democracy in their country."
+  },
+  {
+    "word": "democratic",
+    "translation": "демократический",
+    "example": "The election was a democratic process."
+  },
+  {
+    "word": "demonstrate",
+    "translation": "демонстрировать",
+    "example": "They demonstrated the new product at the trade show."
+  },
+  {
+    "word": "demonstration",
+    "translation": "демонстрация",
+    "example": "The workers held a demonstration to protest the changes."
+  },
+  {
+    "word": "deny",
+    "translation": "отрицать",
+    "example": "He denied any involvement in the crime."
+  },
+  {
+    "word": "depart",
+    "translation": "отправляться",
+    "example": "The train will depart at noon."
+  },
+  {
+    "word": "dependent",
+    "translation": "зависимый",
+    "example": "She is still financially dependent on her parents."
+  },
+  {
+    "word": "deposit",
+    "translation": "депозит",
+    "example": "She made a deposit into her savings account."
+  },
+  {
+    "word": "depressed",
+    "translation": "в депрессии",
+    "example": "He has been feeling depressed lately."
+  },
+  {
+    "word": "depressing",
+    "translation": "угнетающий",
+    "example": "The news about the economy was very depressing."
+  },
+  {
+    "word": "depression",
+    "translation": "депрессия",
+    "example": "She was diagnosed with clinical depression."
+  },
+  {
+    "word": "depth",
+    "translation": "глубина",
+    "example": "The depth of the ocean is still a mystery."
+  },
+  {
+    "word": "derive",
+    "translation": "получать",
+    "example": "They derive great satisfaction from their work."
+  },
+  {
+    "word": "desert",
+    "translation": "пустыня",
+    "example": "The Sahara is the world's largest desert."
+  },
+  {
+    "word": "deserve",
+    "translation": "заслуживать",
+    "example": "She worked hard and deserves the promotion."
+  },
+  {
+    "word": "desire",
+    "translation": "желание",
+    "example": "He has a strong desire to succeed."
+  },
+  {
+    "word": "desperate",
+    "translation": "отчаянный",
+    "example": "They made a desperate attempt to escape."
+  },
+  {
+    "word": "desperately",
+    "translation": "отчаянно",
+    "example": "She desperately tried to find her keys."
+  },
+  {
+    "word": "destruction",
+    "translation": "разрушение",
+    "example": "The storm caused widespread destruction."
+  },
+  {
+    "word": "detail",
+    "translation": "деталь",
+    "example": "Please provide all the details of the event."
+  },
+  {
+    "word": "detailed",
+    "translation": "подробный",
+    "example": "The report included a detailed analysis."
+  },
+  {
+    "word": "determination",
+    "translation": "решимость",
+    "example": "Her determination helped her overcome many obstacles."
+  },
+  {
+    "word": "devote",
+    "translation": "посвящать",
+    "example": "She decided to devote more time to her studies."
+  },
+  {
+    "word": "differ",
+    "translation": "отличаться",
+    "example": "Their opinions differ on many issues."
+  },
+  {
+    "word": "dig",
+    "translation": "копать",
+    "example": "They decided to dig a well in the backyard."
+  },
+  {
+    "word": "dime",
+    "translation": "монета в 10 центов",
+    "example": "A dime is worth ten cents."
+  },
+  {
+    "word": "disability",
+    "translation": "инвалидность",
+    "example": "He has a physical disability that limits his mobility."
+  },
+  {
+    "word": "disabled",
+    "translation": "инвалид",
+    "example": "The building is accessible to disabled people."
+  },
+  {
+    "word": "disagreement",
+    "translation": "несогласие",
+    "example": "They had a disagreement about the best course of action."
+  },
+  {
+    "word": "disappoint",
+    "translation": "разочаровывать",
+    "example": "The ending of the movie disappointed many fans."
+  },
+  {
+    "word": "disappointment",
+    "translation": "разочарование",
+    "example": "His failure to get the job was a great disappointment."
+  },
+  {
+    "word": "disc",
+    "translation": "диск",
+    "example": "He burned the music onto a disc."
+  },
+  {
+    "word": "discipline",
+    "translation": "дисциплина",
+    "example": "Military training requires a lot of discipline."
+  },
+  {
+    "word": "discount",
+    "translation": "скидка",
+    "example": "The store is offering a 10% discount on all items."
+  },
+  {
+    "word": "discourage",
+    "translation": "обескураживать",
+    "example": "The lack of progress discouraged him."
+  },
+  {
+    "word": "dishonest",
+    "translation": "нечестный",
+    "example": "She was dishonest about her qualifications."
+  },
+  {
+    "word": "dismiss",
+    "translation": "увольнять",
+    "example": "He was dismissed from his job for poor performance."
+  },
+  {
+    "word": "disorder",
+    "translation": "расстройство",
+    "example": "She suffers from a severe eating disorder."
+  },
+  {
+    "word": "display",
+    "translation": "показ",
+    "example": "The museum has a new display of ancient artifacts."
+  },
+  {
+    "word": "distant",
+    "translation": "отдаленный",
+    "example": "They could see the distant mountains from their window."
+  },
+  {
+    "word": "distinct",
+    "translation": "отчетливый",
+    "example": "The two species are quite distinct from each other."
+  },
+  {
+    "word": "distinguish",
+    "translation": "различать",
+    "example": "It's hard to distinguish between the twins."
+  },
+  {
+    "word": "distract",
+    "translation": "отвлекать",
+    "example": "The noise outside distracted her from her work."
+  },
+  {
+    "word": "distribute",
+    "translation": "распределять",
+    "example": "They distributed the flyers to everyone in the neighborhood."
+  },
+  {
+    "word": "distribution",
+    "translation": "распределение",
+    "example": "The distribution of resources is unequal."
+  },
+  {
+    "word": "district",
+    "translation": "район",
+    "example": "She lives in the business district of the city."
+  },
+  {
+    "word": "disturb",
+    "translation": "беспокоить",
+    "example": "Please do not disturb the sleeping baby."
+  },
+  {
+    "word": "dive",
+    "translation": "нырять",
+    "example": "They love to dive off the cliffs into the ocean."
+  },
+  {
+    "word": "diverse",
+    "translation": "разнообразный",
+    "example": "The city is known for its diverse culture."
+  },
+  {
+    "word": "diversity",
+    "translation": "разнообразие",
+    "example": "The company values diversity in the workplace."
+  },
+  {
+    "word": "divide",
+    "translation": "делить",
+    "example": "The teacher divided the class into groups."
+  },
+  {
+    "word": "division",
+    "translation": "разделение",
+    "example": "There is a division of labor in the company."
+  },
+  {
+    "word": "divorce",
+    "translation": "развод",
+    "example": "They decided to get a divorce after 20 years of marriage."
+  },
+  {
+    "word": "document",
+    "translation": "документ",
+    "example": "Please sign the document and return it."
+  },
+  {
+    "word": "domestic",
+    "translation": "домашний",
+    "example": "Domestic chores include cooking and cleaning."
+  },
+  {
+    "word": "dominant",
+    "translation": "доминирующий",
+    "example": "He has a dominant personality."
+  },
+  {
+    "word": "dominate",
+    "translation": "доминировать",
+    "example": "One company dominates the market."
+  },
+  {
+    "word": "donation",
+    "translation": "пожертвование",
+    "example": "They made a generous donation to the charity."
+  },
+  {
+    "word": "dot",
+    "translation": "точка",
+    "example": "Place a dot at the end of each sentence."
+  },
+  {
+    "word": "downwards",
+    "translation": "вниз",
+    "example": "The road slopes downwards towards the valley."
+  },
+  {
+    "word": "dozen",
+    "translation": "дюжина",
+    "example": "She bought a dozen eggs at the store."
+  },
+  {
+    "word": "draft",
+    "translation": "черновик",
+    "example": "He wrote the first draft of his novel."
+  },
+  {
+    "word": "drag",
+    "translation": "тащить",
+    "example": "She had to drag the heavy suitcase up the stairs."
+  },
+  {
+    "word": "dramatic",
+    "translation": "драматический",
+    "example": "The news had a dramatic effect on her."
+  },
+  {
+    "word": "dramatically",
+    "translation": "резко",
+    "example": "His health improved dramatically after the surgery."
+  },
+  {
+    "word": "drought",
+    "translation": "засуха",
+    "example": "The region is suffering from a severe drought."
+  },
+  {
+    "word": "dull",
+    "translation": "скучный",
+    "example": "The lecture was long and dull."
+  },
+  {
+    "word": "dump",
+    "translation": "свалка",
+    "example": "They took the old furniture to the dump."
+  },
+  {
+    "word": "duration",
+    "translation": "продолжительность",
+    "example": "The duration of the movie is two hours."
+  },
+  {
+    "word": "dynamic",
+    "translation": "динамичный",
+    "example": "She has a dynamic personality."
+  },
+  {
+    "word": "eager",
+    "translation": "нетерпеливый",
+    "example": "She is eager to start her new job."
+  },
+  {
+    "word": "economics",
+    "translation": "экономика",
+    "example": "She is studying economics at university."
+  },
+  {
+    "word": "economist",
+    "translation": "экономист",
+    "example": "He is a well-known economist."
+  },
+  {
+    "word": "edit",
+    "translation": "редактировать",
+    "example": "She will edit the final draft of the report."
+  },
+  {
+    "word": "edition",
+    "translation": "издание",
+    "example": "The new edition of the book includes a preface."
+  },
+  {
+    "word": "editorial",
+    "translation": "редакционная статья",
+    "example": "The newspaper published an editorial on the topic."
+  },
+  {
+    "word": "efficient",
+    "translation": "эффективный",
+    "example": "The new system is much more efficient."
+  },
+  {
+    "word": "efficiently",
+    "translation": "эффективно",
+    "example": "The team worked efficiently to meet the deadline."
+  },
+  {
+    "word": "elbow",
+    "translation": "локоть",
+    "example": "He injured his elbow while playing tennis."
+  },
+  {
+    "word": "elderly",
+    "translation": "пожилой",
+    "example": "The community center offers activities for the elderly."
+  },
+  {
+    "word": "elect",
+    "translation": "избирать",
+    "example": "They elected her as the new president."
+  },
+  {
+    "word": "electronics",
+    "translation": "электроника",
+    "example": "He works in the electronics industry."
+  },
+  {
+    "word": "elegant",
+    "translation": "элегантный",
+    "example": "She looked elegant in her evening gown."
+  },
+  {
+    "word": "elementary",
+    "translation": "начальный",
+    "example": "He teaches at an elementary school."
+  },
+  {
+    "word": "eliminate",
+    "translation": "устранять",
+    "example": "They are working to eliminate the problem."
+  },
+  {
+    "word": "elsewhere",
+    "translation": "в другом месте",
+    "example": "She decided to move elsewhere for better opportunities."
+  },
+  {
+    "word": "embrace",
+    "translation": "обнимать",
+    "example": "They embraced each other warmly."
+  },
+  {
+    "word": "emerge",
+    "translation": "появляться",
+    "example": "A new leader emerged from the chaos."
+  },
+  {
+    "word": "emission",
+    "translation": "выброс",
+    "example": "The factory has reduced its emissions significantly."
+  },
+  {
+    "word": "emotional",
+    "translation": "эмоциональный",
+    "example": "The movie was very emotional and made many people cry."
+  },
+  {
+    "word": "emotionally",
+    "translation": "эмоционально",
+    "example": "She was emotionally drained after the argument."
+  },
+  {
+    "word": "emphasis",
+    "translation": "акцент",
+    "example": "There is a strong emphasis on teamwork in the company."
+  },
+  {
+    "word": "emphasize",
+    "translation": "подчеркивать",
+    "example": "He emphasized the importance of following safety guidelines."
+  },
+  {
+    "word": "empire",
+    "translation": "империя",
+    "example": "The Roman Empire was one of the largest in history."
+  },
+  {
+    "word": "enable",
+    "translation": "позволять",
+    "example": "The new software will enable us to work more efficiently."
+  },
+  {
+    "word": "encounter",
+    "translation": "встреча",
+    "example": "They had a brief encounter at the conference."
+  },
+  {
+    "word": "engage",
+    "translation": "заниматься",
+    "example": "He is engaged in several community projects."
+  },
+  {
+    "word": "enhance",
+    "translation": "улучшать",
+    "example": "They want to enhance the quality of their products."
+  },
+  {
+    "word": "enjoyable",
+    "translation": "приятный",
+    "example": "We had an enjoyable evening with friends."
+  },
+  {
+    "word": "enquiry",
+    "translation": "запрос",
+    "example": "They received an enquiry about their services."
+  },
+  {
+    "word": "ensure",
+    "translation": "гарантировать",
+    "example": "Please ensure that all doors are locked."
+  },
+  {
+    "word": "entertaining",
+    "translation": "развлекательный",
+    "example": "The show was very entertaining."
+  },
+  {
+    "word": "enthusiasm",
+    "translation": "энтузиазм",
+    "example": "Her enthusiasm for the project was contagious."
+  },
+  {
+    "word": "enthusiastic",
+    "translation": "полный энтузиазма",
+    "example": "He is very enthusiastic about his new job."
+  },
+  {
+    "word": "entire",
+    "translation": "весь",
+    "example": "They spent the entire day at the beach."
+  },
+  {
+    "word": "entirely",
+    "translation": "полностью",
+    "example": "She was entirely focused on her work."
+  },
+  {
+    "word": "entrepreneur",
+    "translation": "предприниматель",
+    "example": "He is a successful entrepreneur who started several businesses."
+  },
+  {
+    "word": "envelope",
+    "translation": "конверт",
+    "example": "She put the letter in an envelope."
+  },
+  {
+    "word": "equal",
+    "translation": "равный",
+    "example": "They believe in equal rights for all."
+  },
+  {
+    "word": "equip",
+    "translation": "оснащать",
+    "example": "The kitchen is equipped with modern appliances."
+  },
+  {
+    "word": "equivalent",
+    "translation": "эквивалентный",
+    "example": "One dollar is equivalent to 100 cents."
+  },
+  {
+    "word": "era",
+    "translation": "эра",
+    "example": "The Renaissance was a significant era in European history."
+  },
+  {
+    "word": "essentially",
+    "translation": "по существу",
+    "example": "Essentially, the two proposals are the same."
+  },
+  {
+    "word": "establish",
+    "translation": "устанавливать",
+    "example": "They established a new protocol for the procedure."
+  },
+  {
+    "word": "estate",
+    "translation": "имущество",
+    "example": "They own a large estate in the countryside."
+  },
+  {
+    "word": "estimate",
+    "translation": "оценка",
+    "example": "The estimate for the repair was higher than expected."
+  },
+  {
+    "word": "ethic",
+    "translation": "этика",
+    "example": "He has a strong work ethic."
+  },
+  {
+    "word": "ethical",
+    "translation": "этический",
+    "example": "The company faced ethical issues in its practices."
+  },
+  {
+    "word": "ethnic",
+    "translation": "этнический",
+    "example": "The city is known for its ethnic diversity."
+  },
+  {
+    "word": "evaluate",
+    "translation": "оценивать",
+    "example": "They will evaluate the effectiveness of the program."
+  },
+  {
+    "word": "evaluation",
+    "translation": "оценка",
+    "example": "The evaluation of the project will take place next month."
+  },
+  {
+    "word": "even",
+    "translation": "даже",
+    "example": "Even the smallest contributions can make a difference."
+  },
+  {
+    "word": "evident",
+    "translation": "очевидный",
+    "example": "It was evident that he was not happy with the results."
+  },
+  {
+    "word": "evil",
+    "translation": "зло",
+    "example": "The story features a battle between good and evil."
+  },
+  {
+    "word": "evolution",
+    "translation": "эволюция",
+    "example": "Darwin's theory of evolution changed the way we understand life."
+  },
+  {
+    "word": "evolve",
+    "translation": "развиваться",
+    "example": "Species evolve over time to adapt to their environment."
+  },
+  {
+    "word": "examination",
+    "translation": "экзамен",
+    "example": "She passed the final examination with flying colors."
+  },
+  {
+    "word": "exceed",
+    "translation": "превышать",
+    "example": "The sales figures exceed our expectations."
+  },
+  {
+    "word": "exception",
+    "translation": "исключение",
+    "example": "With the exception of one student, everyone passed the exam."
+  },
+  {
+    "word": "excessive",
+    "translation": "чрезмерный",
+    "example": "Excessive drinking can lead to health problems."
+  },
+  {
+    "word": "exclude",
+    "translation": "исключать",
+    "example": "They decided to exclude him from the team."
+  },
+  {
+    "word": "excuse",
+    "translation": "оправдание",
+    "example": "There is no excuse for his behavior."
+  },
+  {
+    "word": "executive",
+    "translation": "исполнительный",
+    "example": "He is an executive in a large corporation."
+  },
+  {
+    "word": "existence",
+    "translation": "существование",
+    "example": "They questioned the existence of ghosts."
+  },
+  {
+    "word": "exotic",
+    "translation": "экзотический",
+    "example": "She enjoys cooking with exotic spices."
+  },
+  {
+    "word": "expansion",
+    "translation": "расширение",
+    "example": "The company is planning an expansion into new markets."
+  },
+  {
+    "word": "expectation",
+    "translation": "ожидание",
+    "example": "The project met all of our expectations."
+  },
+  {
+    "word": "expedition",
+    "translation": "экспедиция",
+    "example": "They went on an expedition to the Arctic."
+  },
+  {
+    "word": "expense",
+    "translation": "расход",
+    "example": "The trip was worth the expense."
+  },
+  {
+    "word": "expertise",
+    "translation": "экспертиза",
+    "example": "She has expertise in computer programming."
+  },
+  {
+    "word": "exploit",
+    "translation": "эксплуатировать",
+    "example": "The company was accused of exploiting its workers."
+  },
+  {
+    "word": "exploration",
+    "translation": "исследование",
+    "example": "Space exploration has led to many technological advances."
+  },
+  {
+    "word": "expose",
+    "translation": "разоблачать",
+    "example": "The journalist worked to expose the corruption."
+  },
+  {
+    "word": "exposure",
+    "translation": "воздействие",
+    "example": "Prolonged exposure to the sun can cause skin damage."
+  },
+  {
+    "word": "extend",
+    "translation": "расширять",
+    "example": "They decided to extend their vacation by a few days."
+  },
+  {
+    "word": "extension",
+    "translation": "расширение",
+    "example": "The extension of the building will be completed next year."
+  },
+  {
+    "word": "extensive",
+    "translation": "обширный",
+    "example": "She has extensive experience in the field."
+  },
+  {
+    "word": "extensively",
+    "translation": "широко",
+    "example": "The topic has been extensively researched."
+  },
+  {
+    "word": "extent",
+    "translation": "степень",
+    "example": "To some extent, I agree with you."
+  },
+  {
+    "word": "external",
+    "translation": "внешний",
+    "example": "The external walls need to be painted."
+  },
+  {
+    "word": "extract",
+    "translation": "извлекать",
+    "example": "They extracted a confession from the suspect."
+  },
+  {
+    "word": "extraordinary",
+    "translation": "чрезвычайный",
+    "example": "She has an extraordinary talent for music."
+  },
+  {
+    "word": "extreme",
+    "translation": "экстремальный",
+    "example": "They went on an extreme sports adventure."
+  },
+  {
+    "word": "fabric",
+    "translation": "ткань",
+    "example": "She chose a beautiful fabric for the dress."
+  },
+  {
+    "word": "fabulous",
+    "translation": "потрясающий",
+    "example": "The view from the top of the mountain was fabulous."
+  },
+  {
+    "word": "facility",
+    "translation": "объект",
+    "example": "The facility is equipped with modern technology."
+  },
+  {
+    "word": "faculty",
+    "translation": "факультет",
+    "example": "He is a member of the faculty at the university."
+  },
+  {
+    "word": "failed",
+    "translation": "неудачный",
+    "example": "He made several failed attempts to climb the mountain."
+  },
+  {
+    "word": "failure",
+    "translation": "неудача",
+    "example": "The project ended in failure."
+  },
+  {
+    "word": "faith",
+    "translation": "вера",
+    "example": "She has a strong faith in her religion."
+  },
+  {
+    "word": "fake",
+    "translation": "поддельный",
+    "example": "The painting turned out to be a fake."
+  },
+  {
+    "word": "fame",
+    "translation": "слава",
+    "example": "He achieved fame as a musician."
+  },
+  {
+    "word": "fantasy",
+    "translation": "фантазия",
+    "example": "She loves reading fantasy novels."
+  },
+  {
+    "word": "fare",
+    "translation": "плата за проезд",
+    "example": "The bus fare has increased."
+  },
+  {
+    "word": "fault",
+    "translation": "вина",
+    "example": "It was not his fault that the meeting was canceled."
+  },
+  {
+    "word": "favour",
+    "translation": "одолжение",
+    "example": "Can you do me a favour?"
+  },
+  {
+    "word": "feather",
+    "translation": "перо",
+    "example": "The bird has beautiful feathers."
+  },
+  {
+    "word": "fee",
+    "translation": "плата",
+    "example": "There is a fee for using the swimming pool."
+  },
+  {
+    "word": "feed",
+    "translation": "кормить",
+    "example": "She needs to feed the baby every few hours."
+  },
+  {
+    "word": "feedback",
+    "translation": "обратная связь",
+    "example": "The teacher gave feedback on the student's essay."
+  },
+  {
+    "word": "feel",
+    "translation": "чувствовать",
+    "example": "She feels happy today."
+  },
+  {
+    "word": "fellow",
+    "translation": "товарищ",
+    "example": "He helped his fellow students with their homework."
+  },
+  {
+    "word": "figure",
+    "translation": "цифра",
+    "example": "The sales figures are very encouraging."
+  },
+  {
+    "word": "file",
+    "translation": "файл",
+    "example": "She saved the document as a PDF file."
+  },
+  {
+    "word": "finance",
+    "translation": "финансы",
+    "example": "He works in the finance department."
+  },
+  {
+    "word": "finding",
+    "translation": "находка",
+    "example": "The research findings were published in a journal."
+  },
+  {
+    "word": "firefighter",
+    "translation": "пожарный",
+    "example": "The firefighter rescued the cat from the tree."
+  },
+  {
+    "word": "firework",
+    "translation": "фейерверк",
+    "example": "The fireworks display was spectacular."
+  },
+  {
+    "word": "firm",
+    "translation": "фирма",
+    "example": "She works at a law firm."
+  },
+  {
+    "word": "firm",
+    "translation": "твердый",
+    "example": "He has a firm grip."
+  },
+  {
+    "word": "firmly",
+    "translation": "твердо",
+    "example": "She firmly believes in equal rights."
+  },
+  {
+    "word": "fix",
+    "translation": "чинить",
+    "example": "He needs to fix the leaking faucet."
+  },
+  {
+    "word": "flame",
+    "translation": "пламя",
+    "example": "The candle's flame flickered in the wind."
+  },
+  {
+    "word": "flash",
+    "translation": "вспышка",
+    "example": "The camera's flash went off unexpectedly."
+  },
+  {
+    "word": "flavor",
+    "translation": "вкус",
+    "example": "The ice cream has a rich chocolate flavor."
+  },
+  {
+    "word": "flexible",
+    "translation": "гибкий",
+    "example": "She has a flexible schedule."
+  },
+  {
+    "word": "float",
+    "translation": "плавать",
+    "example": "The boat can float on the water."
+  },
+  {
+    "word": "fold",
+    "translation": "складывать",
+    "example": "She folded the clothes neatly."
+  },
+  {
+    "word": "folding",
+    "translation": "складной",
+    "example": "They used a folding chair at the picnic."
+  },
+  {
+    "word": "following",
+    "translation": "следующий",
+    "example": "Please read the following instructions carefully."
+  },
+  {
+    "word": "fool",
+    "translation": "дурак",
+    "example": "Don't be such a fool."
+  },
+  {
+    "word": "forbid",
+    "translation": "запрещать",
+    "example": "Smoking is strictly forbidden here."
+  },
+  {
+    "word": "forecast",
+    "translation": "прогноз",
+    "example": "The weather forecast predicts rain for tomorrow."
+  },
+  {
+    "word": "forgive",
+    "translation": "прощать",
+    "example": "She decided to forgive him for his mistake."
+  },
+  {
+    "word": "format",
+    "translation": "формат",
+    "example": "The document is in PDF format."
+  },
+  {
+    "word": "formation",
+    "translation": "образование",
+    "example": "The formation of the new company was announced today."
+  },
+  {
+    "word": "former",
+    "translation": "бывший",
+    "example": "He is the former president of the club."
+  },
+  {
+    "word": "formerly",
+    "translation": "прежде",
+    "example": "She was formerly known as Miss Smith."
+  },
+  {
+    "word": "fortunate",
+    "translation": "счастливый",
+    "example": "We were fortunate to have good weather during our trip."
+  },
+  {
+    "word": "fortune",
+    "translation": "состояние",
+    "example": "He made a fortune in the stock market."
+  },
+  {
+    "word": "forum",
+    "translation": "форум",
+    "example": "The forum was a great place to share ideas."
+  },
+  {
+    "word": "forward",
+    "translation": "вперед",
+    "example": "She took a step forward."
+  },
+  {
+    "word": "fossil",
+    "translation": "ископаемое",
+    "example": "They found a fossil of a dinosaur."
+  },
+  {
+    "word": "found",
+    "translation": "основывать",
+    "example": "They founded a new city."
+  },
+  {
+    "word": "foundation",
+    "translation": "фундамент",
+    "example": "The building's foundation is strong."
+  },
+  {
+    "word": "founder",
+    "translation": "основатель",
+    "example": "He is the founder of the company."
+  },
+  {
+    "word": "fraction",
+    "translation": "доля",
+    "example": "Only a fraction of the population was affected."
+  },
+  {
+    "word": "fragment",
+    "translation": "фрагмент",
+    "example": "They found a fragment of the ancient pottery."
+  },
+  {
+    "word": "framework",
+    "translation": "структура",
+    "example": "The framework of the building is made of steel."
+  },
+  {
+    "word": "fraud",
+    "translation": "мошенничество",
+    "example": "He was charged with tax fraud."
+  },
+  {
+    "word": "free",
+    "translation": "свободный",
+    "example": "She felt free after leaving her job."
+  },
+  {
+    "word": "freedom",
+    "translation": "свобода",
+    "example": "They fought for their freedom."
+  },
+  {
+    "word": "freely",
+    "translation": "свободно",
+    "example": "He spoke freely about his experiences."
+  },
+  {
+    "word": "frequency",
+    "translation": "частота",
+    "example": "The frequency of meetings has increased."
+  },
+  {
+    "word": "frequent",
+    "translation": "частый",
+    "example": "He is a frequent visitor to the museum."
+  },
+  {
+    "word": "fuel",
+    "translation": "топливо",
+    "example": "They need to refuel the car."
+  },
+  {
+    "word": "fulfill",
+    "translation": "выполнять",
+    "example": "She wants to fulfill her dreams."
+  },
+  {
+    "word": "full-time",
+    "translation": "на полную ставку",
+    "example": "She works full-time at the hospital."
+  },
+  {
+    "word": "fully",
+    "translation": "полностью",
+    "example": "The project is fully funded."
+  },
+  {
+    "word": "function",
+    "translation": "функция",
+    "example": "The function of the heart is to pump blood."
+  },
+  {
+    "word": "fund",
+    "translation": "фонд",
+    "example": "They established a fund for the project."
+  },
+  {
+    "word": "fundamental",
+    "translation": "фундаментальный",
+    "example": "Respect for others is a fundamental principle."
+  },
+  {
+    "word": "fundamentally",
+    "translation": "в корне",
+    "example": "Their views are fundamentally different."
+  },
+  {
+    "word": "funding",
+    "translation": "финансирование",
+    "example": "The project needs additional funding."
+  },
+  {
+    "word": "furious",
+    "translation": "яростный",
+    "example": "She was furious when she found out the truth."
+  },
+  {
+    "word": "furthermore",
+    "translation": "кроме того",
+    "example": "Furthermore, the evidence does not support the claim."
+  },
+  {
+    "word": "gain",
+    "translation": "получать",
+    "example": "He hopes to gain more experience in his new job."
+  },
+  {
+    "word": "gallon",
+    "translation": "галлон",
+    "example": "The tank can hold up to 10 gallons of water."
+  },
+  {
+    "word": "gaming",
+    "translation": "игры",
+    "example": "He spends a lot of time on online gaming."
+  },
+  {
+    "word": "gang",
+    "translation": "банда",
+    "example": "The gang was involved in several robberies."
+  },
+  {
+    "word": "gay",
+    "translation": "гей",
+    "example": "He openly identifies as gay."
+  },
+  {
+    "word": "gender",
+    "translation": "гендер",
+    "example": "Gender equality is an important issue."
+  },
+  {
+    "word": "gene",
+    "translation": "ген",
+    "example": "They are studying the gene responsible for the disease."
+  },
+  {
+    "word": "generate",
+    "translation": "генерировать",
+    "example": "The new policy will generate more revenue."
+  },
+  {
+    "word": "genetic",
+    "translation": "генетический",
+    "example": "Genetic research is advancing rapidly."
+  },
+  {
+    "word": "genius",
+    "translation": "гений",
+    "example": "He is considered a genius in his field."
+  },
+  {
+    "word": "genre",
+    "translation": "жанр",
+    "example": "She prefers novels in the fantasy genre."
+  },
+  {
+    "word": "genuine",
+    "translation": "подлинный",
+    "example": "He showed genuine concern for her well-being."
+  },
+  {
+    "word": "genuinely",
+    "translation": "искренне",
+    "example": "She was genuinely surprised by the news."
+  },
+  {
+    "word": "gesture",
+    "translation": "жест",
+    "example": "He made a gesture to indicate that he was leaving."
+  },
+  {
+    "word": "globalization",
+    "translation": "глобализация",
+    "example": "Globalization has increased the interconnectedness of the world."
+  },
+  {
+    "word": "globe",
+    "translation": "глобус",
+    "example": "The students studied different countries on the globe."
+  },
+  {
+    "word": "goodness",
+    "translation": "доброта",
+    "example": "Her kindness and goodness were evident to all."
+  },
+  {
+    "word": "gorgeous",
+    "translation": "великолепный",
+    "example": "She looked absolutely gorgeous in her dress."
+  },
+  {
+    "word": "govern",
+    "translation": "управлять",
+    "example": "The country is governed by a parliamentary system."
+  },
+  {
+    "word": "grab",
+    "translation": "хватать",
+    "example": "He managed to grab the last seat."
+  },
+  {
+    "word": "grade",
+    "translation": "оценка",
+    "example": "She received a high grade on her exam."
+  },
+  {
+    "word": "gradually",
+    "translation": "постепенно",
+    "example": "He gradually improved his skills over time."
+  },
+  {
+    "word": "grand",
+    "translation": "величественный",
+    "example": "The palace was grand and impressive."
+  },
+  {
+    "word": "grant",
+    "translation": "грант",
+    "example": "She received a grant for her research."
+  },
+  {
+    "word": "graphic",
+    "translation": "графический",
+    "example": "The graphic design of the website is very modern."
+  },
+  {
+    "word": "graphics",
+    "translation": "графика",
+    "example": "He specializes in computer graphics."
+  },
+  {
+    "word": "greatly",
+    "translation": "значительно",
+    "example": "His health has greatly improved since the surgery."
+  },
+  {
+    "word": "greenhouse",
+    "translation": "теплица",
+    "example": "They grow tomatoes in a greenhouse."
+  },
+  {
+    "word": "guarantee",
+    "translation": "гарантия",
+    "example": "The product comes with a two-year guarantee."
+  },
+  {
+    "word": "guideline",
+    "translation": "руководство",
+    "example": "They issued new guidelines for workplace safety."
+  },
+  {
+    "word": "habitat",
+    "translation": "среда обитания",
+    "example": "The forest is a natural habitat for many species."
+  },
+  {
+    "word": "handle",
+    "translation": "управлять",
+    "example": "He knows how to handle difficult situations."
+  },
+  {
+    "word": "harbor",
+    "translation": "гавань",
+    "example": "The ships were docked in the harbor."
+  },
+  {
+    "word": "harm",
+    "translation": "вред",
+    "example": "Smoking can cause serious harm to your health."
+  },
+  {
+    "word": "harmful",
+    "translation": "вредный",
+    "example": "Pollution is harmful to the environment."
+  },
+  {
+    "word": "headquarters",
+    "translation": "штаб-квартира",
+    "example": "The company's headquarters are located in New York."
+  },
+  {
+    "word": "heal",
+    "translation": "лечить",
+    "example": "Time can heal many wounds."
+  },
+  {
+    "word": "healthcare",
+    "translation": "здравоохранение",
+    "example": "Access to healthcare is a basic human right."
+  },
+  {
+    "word": "hearing",
+    "translation": "слух",
+    "example": "She has good hearing for her age."
+  },
+  {
+    "word": "heaven",
+    "translation": "небеса",
+    "example": "Many believe that good people go to heaven after they die."
+  },
+  {
+    "word": "heel",
+    "translation": "пятка",
+    "example": "Her shoes were hurting her heel."
+  },
+  {
+    "word": "hell",
+    "translation": "ад",
+    "example": "He described the experience as pure hell."
+  },
+  {
+    "word": "helmet",
+    "translation": "шлем",
+    "example": "You should wear a helmet when riding a bike."
+  },
+  {
+    "word": "hence",
+    "translation": "следовательно",
+    "example": "He is a good student, hence his excellent grades."
+  },
+  {
+    "word": "herb",
+    "translation": "трава",
+    "example": "She grows various herbs in her garden."
+  },
+  {
+    "word": "hesitate",
+    "translation": "колебаться",
+    "example": "Don't hesitate to ask if you need help."
+  },
+  {
+    "word": "hidden",
+    "translation": "скрытый",
+    "example": "There was a hidden compartment in the drawer."
+  },
+  {
+    "word": "high",
+    "translation": "высокий",
+    "example": "The mountain is very high."
+  },
+  {
+    "word": "hilarious",
+    "translation": "уморительный",
+    "example": "The comedian's jokes were hilarious."
+  },
+  {
+    "word": "hip",
+    "translation": "бедро",
+    "example": "She injured her hip in the accident."
+  },
+  {
+    "word": "hire",
+    "translation": "нанимать",
+    "example": "They decided to hire more staff."
+  },
+  {
+    "word": "hold",
+    "translation": "держать",
+    "example": "She can hold her breath for a long time."
+  },
+  {
+    "word": "hollow",
+    "translation": "пустой",
+    "example": "The tree trunk was hollow inside."
+  },
+  {
+    "word": "holy",
+    "translation": "святой",
+    "example": "They visited a holy site on their pilgrimage."
+  },
+  {
+    "word": "homeless",
+    "translation": "бездомный",
+    "example": "The city has many programs to help the homeless."
+  },
+  {
+    "word": "honesty",
+    "translation": "честность",
+    "example": "Honesty is one of her most valued traits."
+  },
+  {
+    "word": "honey",
+    "translation": "мед",
+    "example": "She likes to add honey to her tea."
+  },
+  {
+    "word": "honour",
+    "translation": "честь",
+    "example": "It was an honour to meet the president."
+  },
+  {
+    "word": "hook",
+    "translation": "крюк",
+    "example": "He used a hook to hang the picture."
+  },
+  {
+    "word": "hopefully",
+    "translation": "надеюсь",
+    "example": "Hopefully, the weather will be good tomorrow."
+  },
+  {
+    "word": "host",
+    "translation": "хозяин",
+    "example": "She was the host of the party."
+  },
+  {
+    "word": "house",
+    "translation": "дом",
+    "example": "They built a new house in the suburbs."
+  },
+  {
+    "word": "household",
+    "translation": "домашнее хозяйство",
+    "example": "She manages the household efficiently."
+  },
+  {
+    "word": "housing",
+    "translation": "жилищное строительство",
+    "example": "The government is investing in affordable housing."
+  },
+  {
+    "word": "humorous",
+    "translation": "юмористический",
+    "example": "His humorous stories always make us laugh."
+  },
+  {
+    "word": "humour",
+    "translation": "юмор",
+    "example": "She has a great sense of humour."
+  },
+  {
+    "word": "hunger",
+    "translation": "голод",
+    "example": "He felt a pang of hunger."
+  },
+  {
+    "word": "hunt",
+    "translation": "охотиться",
+    "example": "They like to hunt deer in the forest."
+  },
+  {
+    "word": "hunting",
+    "translation": "охота",
+    "example": "Hunting is a popular sport in this region."
+  },
+  {
+    "word": "hurt",
+    "translation": "боль",
+    "example": "She hurt her arm while playing tennis."
+  },
+  {
+    "word": "hypothesis",
+    "translation": "гипотеза",
+    "example": "The scientists tested their hypothesis."
+  },
+  {
+    "word": "icon",
+    "translation": "икона",
+    "example": "The Eiffel Tower is an icon of Paris."
+  },
+  {
+    "word": "ID",
+    "translation": "удостоверение личности",
+    "example": "You need an ID to enter the building."
+  },
+  {
+    "word": "ideal",
+    "translation": "идеальный",
+    "example": "He is the ideal candidate for the job."
+  },
+  {
+    "word": "identical",
+    "translation": "идентичный",
+    "example": "The twins look identical."
+  },
+  {
+    "word": "illusion",
+    "translation": "иллюзия",
+    "example": "The magician created the illusion of a disappearing act."
+  },
+  {
+    "word": "illustrate",
+    "translation": "иллюстрировать",
+    "example": "The book is beautifully illustrated."
+  },
+  {
+    "word": "illustration",
+    "translation": "иллюстрация",
+    "example": "The illustration on the cover caught my eye."
+  },
+  {
+    "word": "imagination",
+    "translation": "воображение",
+    "example": "Children have a vivid imagination."
+  },
+  {
+    "word": "immigration",
+    "translation": "иммиграция",
+    "example": "The country has strict immigration policies."
+  },
+  {
+    "word": "immune",
+    "translation": "иммунный",
+    "example": "She is immune to the disease."
+  },
+  {
+    "word": "impatient",
+    "translation": "нетерпеливый",
+    "example": "He was impatient while waiting for the results."
+  },
+  {
+    "word": "implement",
+    "translation": "реализовать",
+    "example": "The company will implement the new policy next year."
+  },
+  {
+    "word": "implication",
+    "translation": "последствие",
+    "example": "The implications of the decision are significant."
+  },
+  {
+    "word": "imply",
+    "translation": "подразумевать",
+    "example": "His words implied a threat."
+  },
+  {
+    "word": "impose",
+    "translation": "навязывать",
+    "example": "The government imposed new regulations."
+  },
+  {
+    "word": "impress",
+    "translation": "впечатлять",
+    "example": "She impressed everyone with her skills."
+  },
+  {
+    "word": "impressed",
+    "translation": "впечатленный",
+    "example": "He was impressed by her presentation."
+  },
+  {
+    "word": "incentive",
+    "translation": "стимул",
+    "example": "The company offers financial incentives to its employees."
+  },
+  {
+    "word": "inch",
+    "translation": "дюйм",
+    "example": "The fish was over 20 inches long."
+  },
+  {
+    "word": "incident",
+    "translation": "инцидент",
+    "example": "The incident caused a lot of commotion."
+  },
+  {
+    "word": "income",
+    "translation": "доход",
+    "example": "She has a steady income from her job."
+  },
+  {
+    "word": "incorporate",
+    "translation": "включать",
+    "example": "The new design incorporates both modern and traditional elements."
+  },
+  {
+    "word": "incorrect",
+    "translation": "неправильный",
+    "example": "The answer was incorrect."
+  },
+  {
+    "word": "increasingly",
+    "translation": "все больше",
+    "example": "The situation is becoming increasingly difficult."
+  },
+  {
+    "word": "independence",
+    "translation": "независимость",
+    "example": "The country declared its independence in 1945."
+  },
+  {
+    "word": "index",
+    "translation": "индекс",
+    "example": "The book has a detailed index."
+  },
+  {
+    "word": "indication",
+    "translation": "указание",
+    "example": "There was no indication of a problem."
+  },
+  {
+    "word": "industrial",
+    "translation": "промышленный",
+    "example": "The city is known for its industrial sector."
+  },
+  {
+    "word": "inevitable",
+    "translation": "неизбежный",
+    "example": "Changes in technology are inevitable."
+  },
+  {
+    "word": "inevitably",
+    "translation": "неизбежно",
+    "example": "Inevitably, some mistakes were made."
+  },
+  {
+    "word": "infection",
+    "translation": "инфекция",
+    "example": "The wound was at risk of infection."
+  },
+  {
+    "word": "infer",
+    "translation": "делать вывод",
+    "example": "From his tone, I inferred that he was angry."
+  },
+  {
+    "word": "inflation",
+    "translation": "инфляция",
+    "example": "The government is trying to control inflation."
+  },
+  {
+    "word": "info",
+    "translation": "информация",
+    "example": "I need more info on the topic."
+  },
+  {
+    "word": "inform",
+    "translation": "информировать",
+    "example": "Please inform me of any changes."
+  },
+  {
+    "word": "infrastructure",
+    "translation": "инфраструктура",
+    "example": "The city's infrastructure needs improvement."
+  },
+  {
+    "word": "inhabitant",
+    "translation": "житель",
+    "example": "The island's inhabitants are friendly."
+  },
+  {
+    "word": "inherit",
+    "translation": "наследовать",
+    "example": "She will inherit the family estate."
+  },
+  {
+    "word": "initial",
+    "translation": "начальный",
+    "example": "The initial results are promising."
+  },
+  {
+    "word": "initiative",
+    "translation": "инициатива",
+    "example": "They launched a new initiative to help the homeless."
+  },
+  {
+    "word": "ink",
+    "translation": "чернила",
+    "example": "The printer is out of ink."
+  },
+  {
+    "word": "inner",
+    "translation": "внутренний",
+    "example": "He struggles with his inner demons."
+  },
+  {
+    "word": "innovation",
+    "translation": "инновация",
+    "example": "The company is known for its technological innovations."
+  },
+  {
+    "word": "innovative",
+    "translation": "инновационный",
+    "example": "She has an innovative approach to problem-solving."
+  },
+  {
+    "word": "input",
+    "translation": "вклад",
+    "example": "We value your input on this matter."
+  },
+  {
+    "word": "insert",
+    "translation": "вставлять",
+    "example": "Please insert the card into the reader."
+  },
+  {
+    "word": "insight",
+    "translation": "проницательность",
+    "example": "Her insights into the problem were valuable."
+  },
+  {
+    "word": "insist",
+    "translation": "настаивать",
+    "example": "She insists on doing everything herself."
+  },
+  {
+    "word": "inspector",
+    "translation": "инспектор",
+    "example": "The inspector checked the building for safety."
+  },
+  {
+    "word": "inspire",
+    "translation": "вдохновлять",
+    "example": "Her speech inspired many people."
+  },
+  {
+    "word": "install",
+    "translation": "устанавливать",
+    "example": "They installed a new security system."
+  },
+  {
+    "word": "installation",
+    "translation": "установка",
+    "example": "The installation of the new equipment took all day."
+  },
+  {
+    "word": "instance",
+    "translation": "пример",
+    "example": "There are many instances of his generosity."
+  },
+  {
+    "word": "instant",
+    "translation": "момент",
+    "example": "He responded in an instant."
+  },
+  {
+    "word": "instantly",
+    "translation": "немедленно",
+    "example": "She instantly regretted her decision."
+  },
+  {
+    "word": "institute",
+    "translation": "институт",
+    "example": "He works at a research institute."
+  },
+  {
+    "word": "institution",
+    "translation": "учреждение",
+    "example": "The institution offers higher education courses."
+  },
+  {
+    "word": "insurance",
+    "translation": "страхование",
+    "example": "She has health insurance."
+  },
+  {
+    "word": "integrate",
+    "translation": "интегрировать",
+    "example": "They plan to integrate the new system next month."
+  },
+  {
+    "word": "intellectual",
+    "translation": "интеллектуальный",
+    "example": "He is an intellectual with many interests."
+  },
+  {
+    "word": "intended",
+    "translation": "предназначенный",
+    "example": "The book is intended for young readers."
+  },
+  {
+    "word": "intense",
+    "translation": "интенсивный",
+    "example": "The heat was intense during the summer."
+  },
+  {
+    "word": "interact",
+    "translation": "взаимодействовать",
+    "example": "Children need to interact with their peers."
+  },
+  {
+    "word": "interaction",
+    "translation": "взаимодействие",
+    "example": "Social interaction is important for mental health."
+  },
+  {
+    "word": "internal",
+    "translation": "внутренний",
+    "example": "The company has internal policies for employee conduct."
+  },
+  {
+    "word": "interpret",
+    "translation": "интерпретировать",
+    "example": "How do you interpret these results?"
+  },
+  {
+    "word": "interpretation",
+    "translation": "интерпретация",
+    "example": "The interpretation of the data is crucial."
+  },
+  {
+    "word": "interrupt",
+    "translation": "прерывать",
+    "example": "Please do not interrupt me while I am speaking."
+  },
+  {
+    "word": "interval",
+    "translation": "интервал",
+    "example": "There is a 10-minute interval between classes."
+  },
+  {
+    "word": "invade",
+    "translation": "вторгаться",
+    "example": "The troops invaded the enemy territory."
+  },
+  {
+    "word": "invasion",
+    "translation": "вторжение",
+    "example": "The invasion caused widespread panic."
+  },
+  {
+    "word": "investigation",
+    "translation": "расследование",
+    "example": "The police are conducting an investigation into the crime."
+  },
+  {
+    "word": "investment",
+    "translation": "инвестиция",
+    "example": "Real estate is considered a good investment."
+  },
+  {
+    "word": "investor",
+    "translation": "инвестор",
+    "example": "The investor is interested in the new project."
+  },
+  {
+    "word": "isolate",
+    "translation": "изолировать",
+    "example": "The patient was isolated to prevent the spread of the disease."
+  },
+  {
+    "word": "isolated",
+    "translation": "изолированный",
+    "example": "They live in an isolated village in the mountains."
+  },
+  {
+    "word": "issue",
+    "translation": "вопрос",
+    "example": "They discussed the issue at the meeting."
+  },
+  {
+    "word": "jail",
+    "translation": "тюрьма",
+    "example": "He was sent to jail for his crimes."
+  },
+  {
+    "word": "jet",
+    "translation": "самолет",
+    "example": "The private jet landed smoothly."
+  },
+  {
+    "word": "joint",
+    "translation": "совместный",
+    "example": "They issued a joint statement."
+  },
+  {
+    "word": "journalism",
+    "translation": "журналистика",
+    "example": "She studied journalism at university."
+  },
+  {
+    "word": "joy",
+    "translation": "радость",
+    "example": "The news brought them great joy."
+  },
+  {
+    "word": "junior",
+    "translation": "младший",
+    "example": "He is a junior member of the team."
+  },
+  {
+    "word": "jury",
+    "translation": "жюри",
+    "example": "The jury found him guilty."
+  },
+  {
+    "word": "justice",
+    "translation": "справедливость",
+    "example": "They are fighting for justice and equality."
+  },
+  {
+    "word": "justify",
+    "translation": "оправдывать",
+    "example": "He tried to justify his actions."
+  },
+  {
+    "word": "kindergarten",
+    "translation": "детский сад",
+    "example": "She teaches at a kindergarten."
+  },
+  {
+    "word": "labour",
+    "translation": "труд",
+    "example": "The company uses cheap labour to cut costs."
+  },
+  {
+    "word": "ladder",
+    "translation": "лестница",
+    "example": "He climbed the ladder to reach the roof."
+  },
+  {
+    "word": "landing",
+    "translation": "приземление",
+    "example": "The plane made a smooth landing."
+  },
+  {
+    "word": "landscape",
+    "translation": "пейзаж",
+    "example": "The landscape was breathtaking."
+  },
+  {
+    "word": "lane",
+    "translation": "переулок",
+    "example": "They walked down a narrow lane."
+  },
+  {
+    "word": "largely",
+    "translation": "в основном",
+    "example": "The success was largely due to their efforts."
+  },
+  {
+    "word": "lately",
+    "translation": "в последнее время",
+    "example": "He has been feeling better lately."
+  },
+  {
+    "word": "latest",
+    "translation": "последний",
+    "example": "This is the latest model of the car."
+  },
+  {
+    "word": "launch",
+    "translation": "запуск",
+    "example": "The company plans to launch the product next year."
+  },
+  {
+    "word": "leadership",
+    "translation": "лидерство",
+    "example": "She has shown great leadership in her role."
+  },
+  {
+    "word": "league",
+    "translation": "лига",
+    "example": "They play in the local football league."
+  },
+  {
+    "word": "lean",
+    "translation": "наклоняться",
+    "example": "He leaned forward to hear better."
+  },
+  {
+    "word": "leave",
+    "translation": "покидать",
+    "example": "She decided to leave the company."
+  },
+  {
+    "word": "legend",
+    "translation": "легенда",
+    "example": "He is a legend in the world of sports."
+  },
+  {
+    "word": "lens",
+    "translation": "линза",
+    "example": "The camera's lens needs to be cleaned."
+  },
+  {
+    "word": "level",
+    "translation": "уровень",
+    "example": "The water level is rising."
+  },
+  {
+    "word": "licence",
+    "translation": "лицензия",
+    "example": "You need a licence to drive a car."
+  },
+  {
+    "word": "lifetime",
+    "translation": "пожизненный",
+    "example": "He achieved a lot in his lifetime."
+  },
+  {
+    "word": "lighting",
+    "translation": "освещение",
+    "example": "The lighting in the room was perfect for reading."
+  },
+  {
+    "word": "likewise",
+    "translation": "также",
+    "example": "She said goodbye, and I did likewise."
+  },
+  {
+    "word": "limited",
+    "translation": "ограниченный",
+    "example": "The offer is available for a limited time."
+  },
+  {
+    "word": "line",
+    "translation": "линия",
+    "example": "They drew a line in the sand."
+  },
+  {
+    "word": "literally",
+    "translation": "буквально",
+    "example": "He was literally shaking with excitement."
+  },
+  {
+    "word": "literary",
+    "translation": "литературный",
+    "example": "She has a literary talent."
+  },
+  {
+    "word": "litter",
+    "translation": "мусор",
+    "example": "The park was full of litter after the concert."
+  },
+  {
+    "word": "lively",
+    "translation": "оживленный",
+    "example": "The city has a lively nightlife."
+  },
+  {
+    "word": "load",
+    "translation": "нагрузка",
+    "example": "The truck carried a heavy load."
+  },
+  {
+    "word": "loan",
+    "translation": "заем",
+    "example": "He took out a loan to buy a house."
+  },
+  {
+    "word": "logical",
+    "translation": "логичный",
+    "example": "His argument was logical and well-reasoned."
+  },
+  {
+    "word": "logo",
+    "translation": "логотип",
+    "example": "The company's logo is easily recognizable."
+  },
+  {
+    "word": "long-term",
+    "translation": "долгосрочный",
+    "example": "They have a long-term plan for growth."
+  },
+  {
+    "word": "loose",
+    "translation": "свободный",
+    "example": "The shirt was loose and comfortable."
+  },
+  {
+    "word": "lord",
+    "translation": "лорд",
+    "example": "He was appointed as a lord."
+  },
+  {
+    "word": "lottery",
+    "translation": "лотерея",
+    "example": "She won the lottery last year."
+  },
+  {
+    "word": "low",
+    "translation": "низкий",
+    "example": "The table is low to the ground."
+  },
+  {
+    "word": "lower",
+    "translation": "опускать",
+    "example": "He lowered the flag."
+  },
+  {
+    "word": "loyal",
+    "translation": "верный",
+    "example": "He has been a loyal friend for years."
+  },
+  {
+    "word": "lung",
+    "translation": "легкое",
+    "example": "Smoking is harmful to your lungs."
+  },
+  {
+    "word": "lyric",
+    "translation": "текст песни",
+    "example": "She wrote the lyrics for the song."
+  },
+  {
+    "word": "magnificent",
+    "translation": "великолепный",
+    "example": "The view from the top of the mountain was magnificent."
+  },
+  {
+    "word": "maintain",
+    "translation": "поддерживать",
+    "example": "It's important to maintain a healthy diet."
+  },
+  {
+    "word": "majority",
+    "translation": "большинство",
+    "example": "The majority of people agreed with the decision."
+  },
+  {
+    "word": "make",
+    "translation": "делать",
+    "example": "She likes to make her own clothes."
+  },
+  {
+    "word": "makeup",
+    "translation": "макияж",
+    "example": "She applied her makeup carefully."
+  },
+  {
+    "word": "making",
+    "translation": "изготовление",
+    "example": "The making of the film took several years."
+  },
+  {
+    "word": "manufacture",
+    "translation": "производить",
+    "example": "They manufacture cars in this factory."
+  },
+  {
+    "word": "manufacturing",
+    "translation": "производство",
+    "example": "Manufacturing is a key industry in the region."
+  },
+  {
+    "word": "map",
+    "translation": "карта",
+    "example": "He studied the map before starting the hike."
+  },
+  {
+    "word": "marathon",
+    "translation": "марафон",
+    "example": "She trained for months to run the marathon."
+  },
+  {
+    "word": "margin",
+    "translation": "поля",
+    "example": "Please leave a margin on each side of the paper."
+  },
+  {
+    "word": "marker",
+    "translation": "маркер",
+    "example": "He used a red marker to highlight the text."
+  },
+  {
+    "word": "martial",
+    "translation": "боевой",
+    "example": "He has a black belt in martial arts."
+  },
+  {
+    "word": "mass",
+    "translation": "масса",
+    "example": "The mass of the object was calculated."
+  },
+  {
+    "word": "massive",
+    "translation": "массивный",
+    "example": "The building has a massive structure."
+  },
+  {
+    "word": "master",
+    "translation": "мастер",
+    "example": "He is a master of his craft."
+  },
+  {
+    "word": "matching",
+    "translation": "подходящий",
+    "example": "She wore a matching hat and scarf."
+  },
+  {
+    "word": "mate",
+    "translation": "товарищ",
+    "example": "He is a good mate from college."
+  },
+  {
+    "word": "material",
+    "translation": "материал",
+    "example": "The dress is made of a soft material."
+  },
+  {
+    "word": "maximum",
+    "translation": "максимум",
+    "example": "The room has a maximum capacity of 200 people."
+  },
+  {
+    "word": "means",
+    "translation": "средства",
+    "example": "He has the means to travel the world."
+  },
+  {
+    "word": "measurement",
+    "translation": "измерение",
+    "example": "They took the measurements of the room."
+  },
+  {
+    "word": "mechanic",
+    "translation": "механик",
+    "example": "The mechanic fixed the car's engine."
+  },
+  {
+    "word": "mechanical",
+    "translation": "механический",
+    "example": "The problem was with the mechanical part of the machine."
+  },
+  {
+    "word": "mechanism",
+    "translation": "механизм",
+    "example": "The locking mechanism is broken."
+  },
+  {
+    "word": "medal",
+    "translation": "медаль",
+    "example": "She won a gold medal in the Olympics."
+  },
+  {
+    "word": "medication",
+    "translation": "лекарство",
+    "example": "He is on medication for his condition."
+  },
+  {
+    "word": "medium",
+    "translation": "средний",
+    "example": "She ordered a medium coffee."
+  },
+  {
+    "word": "melt",
+    "translation": "таять",
+    "example": "The ice cream will melt if left in the sun."
+  },
+  {
+    "word": "membership",
+    "translation": "членство",
+    "example": "She applied for membership at the club."
+  },
+  {
+    "word": "memorable",
+    "translation": "памятный",
+    "example": "The trip was a memorable experience."
+  },
+  {
+    "word": "metaphor",
+    "translation": "метафора",
+    "example": "The poem uses the metaphor of a journey."
+  },
+  {
+    "word": "military",
+    "translation": "военный",
+    "example": "He served in the military for ten years."
+  },
+  {
+    "word": "mineral",
+    "translation": "минерал",
+    "example": "The water is rich in minerals."
+  },
+  {
+    "word": "minimum",
+    "translation": "минимум",
+    "example": "The minimum age for voting is 18."
+  },
+  {
+    "word": "minister",
+    "translation": "министр",
+    "example": "The foreign minister attended the conference."
+  },
+  {
+    "word": "minor",
+    "translation": "незначительный",
+    "example": "He had a minor injury after the accident."
+  },
+  {
+    "word": "minority",
+    "translation": "меньшинство",
+    "example": "The proposal was supported by a minority of voters."
+  },
+  {
+    "word": "miserable",
+    "translation": "несчастный",
+    "example": "He felt miserable after losing his job."
+  },
+  {
+    "word": "mission",
+    "translation": "миссия",
+    "example": "The mission was to explore the new planet."
+  },
+  {
+    "word": "mistake",
+    "translation": "ошибка",
+    "example": "He made a mistake on the test."
+  },
+  {
+    "word": "mixed",
+    "translation": "смешанный",
+    "example": "She has mixed feelings about moving to a new city."
+  },
+  {
+    "word": "mode",
+    "translation": "режим",
+    "example": "The phone is in silent mode."
+  },
+  {
+    "word": "model",
+    "translation": "модель",
+    "example": "She is a fashion model."
+  },
+  {
+    "word": "modest",
+    "translation": "скромный",
+    "example": "He is very modest about his achievements."
+  },
+  {
+    "word": "modify",
+    "translation": "модифицировать",
+    "example": "The car was modified for better performance."
+  },
+  {
+    "word": "monitor",
+    "translation": "монитор",
+    "example": "He looked at the computer monitor."
+  },
+  {
+    "word": "monster",
+    "translation": "монстр",
+    "example": "The story is about a monster that lives in the forest."
+  },
+  {
+    "word": "monthly",
+    "translation": "ежемесячный",
+    "example": "They have a monthly meeting."
+  },
+  {
+    "word": "monument",
+    "translation": "памятник",
+    "example": "The monument was built to honor the soldiers."
+  },
+  {
+    "word": "moral",
+    "translation": "моральный",
+    "example": "He faced a moral dilemma."
+  },
+  {
+    "word": "moreover",
+    "translation": "более того",
+    "example": "Moreover, the evidence was not sufficient."
+  },
+  {
+    "word": "mortgage",
+    "translation": "ипотека",
+    "example": "They took out a mortgage to buy the house."
+  },
+  {
+    "word": "mosque",
+    "translation": "мечеть",
+    "example": "They visited the mosque during their trip."
+  },
+  {
+    "word": "mosquito",
+    "translation": "комар",
+    "example": "The mosquito bit her arm."
+  },
+  {
+    "word": "motion",
+    "translation": "движение",
+    "example": "The motion of the car made her feel sick."
+  },
+  {
+    "word": "motivate",
+    "translation": "мотивировать",
+    "example": "He tried to motivate his team before the game."
+  },
+  {
+    "word": "motivation",
+    "translation": "мотивация",
+    "example": "Her motivation for studying is her desire to succeed."
+  },
+  {
+    "word": "motor",
+    "translation": "мотор",
+    "example": "The boat's motor needs to be repaired."
+  },
+  {
+    "word": "mount",
+    "translation": "устанавливать",
+    "example": "They plan to mount the TV on the wall."
+  },
+  {
+    "word": "moving",
+    "translation": "движущийся",
+    "example": "The moving train made it hard to stay balanced."
+  },
+  {
+    "word": "multiple",
+    "translation": "множественный",
+    "example": "He has multiple interests and hobbies."
+  },
+  {
+    "word": "multiply",
+    "translation": "умножать",
+    "example": "She learned to multiply numbers in math class."
+  },
+  {
+    "word": "mysterious",
+    "translation": "таинственный",
+    "example": "The old house was full of mysterious sounds."
+  },
+  {
+    "word": "myth",
+    "translation": "миф",
+    "example": "The myth of the lost city fascinated him."
+  },
+  {
+    "word": "naked",
+    "translation": "обнаженный",
+    "example": "The statue depicted a naked figure."
+  },
+  {
+    "word": "narrow",
+    "translation": "узкий",
+    "example": "The alley was too narrow for cars."
+  },
+  {
+    "word": "nasty",
+    "translation": "неприятный",
+    "example": "He made a nasty remark."
+  },
+  {
+    "word": "national",
+    "translation": "национальный",
+    "example": "The national anthem is played before the games."
+  },
+  {
+    "word": "navigation",
+    "translation": "навигация",
+    "example": "The navigation system helped them find their way."
+  },
+  {
+    "word": "nearby",
+    "translation": "поблизости",
+    "example": "They found a restaurant nearby."
+  },
+  {
+    "word": "neat",
+    "translation": "аккуратный",
+    "example": "She kept her room neat and tidy."
+  },
+  {
+    "word": "necessity",
+    "translation": "необходимость",
+    "example": "Food is a basic necessity of life."
+  },
+  {
+    "word": "negative",
+    "translation": "негативный",
+    "example": "He had a negative reaction to the news."
+  },
+  {
+    "word": "negotiate",
+    "translation": "вести переговоры",
+    "example": "They will negotiate the terms of the contract."
+  },
+  {
+    "word": "negotiation",
+    "translation": "переговоры",
+    "example": "The negotiation lasted several hours."
+  },
+  {
+    "word": "nerve",
+    "translation": "нерв",
+    "example": "He damaged a nerve in his arm."
+  },
+  {
+    "word": "network",
+    "translation": "сеть",
+    "example": "The computer network needs to be updated."
+  },
+  {
+    "word": "neutral",
+    "translation": "нейтральный",
+    "example": "Switzerland is known for its neutral stance."
+  },
+  {
+    "word": "newly",
+    "translation": "недавно",
+    "example": "They moved into a newly built house."
+  },
+  {
+    "word": "nickel",
+    "translation": "никель",
+    "example": "The coin is made of nickel."
+  },
+  {
+    "word": "nightmare",
+    "translation": "кошмар",
+    "example": "She had a terrible nightmare last night."
+  },
+  {
+    "word": "norm",
+    "translation": "норма",
+    "example": "Social norms vary across cultures."
+  },
+  {
+    "word": "notebook",
+    "translation": "тетрадь",
+    "example": "She wrote her notes in a notebook."
+  },
+  {
+    "word": "notion",
+    "translation": "понятие",
+    "example": "He has a different notion of what success means."
+  },
+  {
+    "word": "novelist",
+    "translation": "романист",
+    "example": "She is a famous novelist."
+  },
+  {
+    "word": "nowadays",
+    "translation": "в наши дни",
+    "example": "Nowadays, people use smartphones for everything."
+  },
+  {
+    "word": "numerous",
+    "translation": "многочисленный",
+    "example": "She has made numerous contributions to the field."
+  },
+  {
+    "word": "nursing",
+    "translation": "уход",
+    "example": "She is studying nursing at college."
+  },
+  {
+    "word": "nutrition",
+    "translation": "питание",
+    "example": "Good nutrition is essential for health."
+  },
+  {
+    "word": "obesity",
+    "translation": "ожирение",
+    "example": "Obesity is a growing problem in many countries."
+  },
+  {
+    "word": "obey",
+    "translation": "подчиняться",
+    "example": "Children are taught to obey their parents."
+  },
+  {
+    "word": "object",
+    "translation": "объект",
+    "example": "He found a strange object on the beach."
+  },
+  {
+    "word": "objective",
+    "translation": "цель",
+    "example": "The main objective is to improve sales."
+  },
+  {
+    "word": "obligation",
+    "translation": "обязательство",
+    "example": "He has an obligation to support his family."
+  },
+  {
+    "word": "observation",
+    "translation": "наблюдение",
+    "example": "The scientist recorded his observations."
+  },
+  {
+    "word": "observe",
+    "translation": "наблюдать",
+    "example": "She likes to observe people in the park."
+  },
+  {
+    "word": "observer",
+    "translation": "наблюдатель",
+    "example": "The observer noted the changes in behavior."
+  },
+  {
+    "word": "obstacle",
+    "translation": "препятствие",
+    "example": "They overcame every obstacle in their path."
+  },
+  {
+    "word": "obtain",
+    "translation": "получать",
+    "example": "You need to obtain permission to enter."
+  },
+  {
+    "word": "occasionally",
+    "translation": "иногда",
+    "example": "He visits his family occasionally."
+  },
+  {
+    "word": "occupation",
+    "translation": "занятие",
+    "example": "Her occupation is a teacher."
+  },
+  {
+    "word": "occupy",
+    "translation": "занимать",
+    "example": "The building is occupied by several companies."
+  },
+  {
+    "word": "offence",
+    "translation": "правонарушение",
+    "example": "He was charged with a minor offence."
+  },
+  {
+    "word": "offend",
+    "translation": "обижать",
+    "example": "He didn't mean to offend you."
+  },
+  {
+    "word": "offender",
+    "translation": "правонарушитель",
+    "example": "The offender was caught by the police."
+  },
+  {
+    "word": "offensive",
+    "translation": "оскорбительный",
+    "example": "His comments were offensive to many people."
+  },
+  {
+    "word": "official",
+    "translation": "официальный",
+    "example": "They made an official announcement."
+  },
+  {
+    "word": "ongoing",
+    "translation": "постоянный",
+    "example": "The project is still ongoing."
+  },
+  {
+    "word": "opening",
+    "translation": "открытие",
+    "example": "The grand opening was a huge success."
+  },
+  {
+    "word": "openly",
+    "translation": "открыто",
+    "example": "He spoke openly about his past."
+  },
+  {
+    "word": "opera",
+    "translation": "опера",
+    "example": "She enjoys going to the opera."
+  },
+  {
+    "word": "operate",
+    "translation": "управлять",
+    "example": "He learned to operate the new machinery."
+  },
+  {
+    "word": "opponent",
+    "translation": "противник",
+    "example": "He defeated his opponent in the final match."
+  },
+  {
+    "word": "oppose",
+    "translation": "противиться",
+    "example": "Many people oppose the new law."
+  },
+  {
+    "word": "opposed",
+    "translation": "противоположный",
+    "example": "They are on opposed sides of the issue."
+  },
+  {
+    "word": "opposition",
+    "translation": "оппозиция",
+    "example": "The opposition party criticized the government's policy."
+  },
+  {
+    "word": "optimistic",
+    "translation": "оптимистичный",
+    "example": "She has an optimistic outlook on life."
+  },
+  {
+    "word": "orchestra",
+    "translation": "оркестр",
+    "example": "He plays the violin in an orchestra."
+  },
+  {
+    "word": "organ",
+    "translation": "орган",
+    "example": "The heart is a vital organ."
+  },
+  {
+    "word": "organic",
+    "translation": "органический",
+    "example": "They only eat organic food."
+  },
+  {
+    "word": "origin",
+    "translation": "происхождение",
+    "example": "The origin of the tradition is unknown."
+  },
+  {
+    "word": "otherwise",
+    "translation": "иначе",
+    "example": "You need to study hard; otherwise, you will fail."
+  },
+  {
+    "word": "outcome",
+    "translation": "результат",
+    "example": "They were pleased with the outcome of the meeting."
+  },
+  {
+    "word": "outer",
+    "translation": "внешний",
+    "example": "The outer layer of the cake is chocolate."
+  },
+  {
+    "word": "outfit",
+    "translation": "наряд",
+    "example": "She wore a stylish outfit to the party."
+  },
+  {
+    "word": "outline",
+    "translation": "контур",
+    "example": "He drew the outline of the building."
+  },
+  {
+    "word": "output",
+    "translation": "выход",
+    "example": "The factory's output has increased this year."
+  },
+  {
+    "word": "outstanding",
+    "translation": "выдающийся",
+    "example": "Her performance was outstanding."
+  },
+  {
+    "word": "overall",
+    "translation": "в целом",
+    "example": "Overall, the project was a success."
+  },
+  {
+    "word": "overcome",
+    "translation": "преодолевать",
+    "example": "They managed to overcome all obstacles."
+  },
+  {
+    "word": "overnight",
+    "translation": "на ночь",
+    "example": "We stayed overnight at a hotel."
+  },
+  {
+    "word": "owe",
+    "translation": "быть должным",
+    "example": "I owe him fifty dollars."
+  },
+  {
+    "word": "ownership",
+    "translation": "владение",
+    "example": "They took ownership of the property."
+  },
+  {
+    "word": "oxygen",
+    "translation": "кислород",
+    "example": "We need oxygen to breathe."
+  },
+  {
+    "word": "pace",
+    "translation": "темп",
+    "example": "He walked at a quick pace."
+  },
+  {
+    "word": "package",
+    "translation": "пакет",
+    "example": "The package arrived this morning."
+  },
+  {
+    "word": "packet",
+    "translation": "пакетик",
+    "example": "She opened a packet of biscuits."
+  },
+  {
+    "word": "palm",
+    "translation": "ладонь",
+    "example": "He held the coin in his palm."
+  },
+  {
+    "word": "panel",
+    "translation": "панель",
+    "example": "The control panel is on the right."
+  },
+  {
+    "word": "panic",
+    "translation": "паника",
+    "example": "There was panic when the fire alarm went off."
+  },
+  {
+    "word": "parade",
+    "translation": "парад",
+    "example": "They watched the parade from the balcony."
+  },
+  {
+    "word": "parallel",
+    "translation": "параллельный",
+    "example": "The road runs parallel to the river."
+  },
+  {
+    "word": "parliament",
+    "translation": "парламент",
+    "example": "The bill was debated in parliament."
+  },
+  {
+    "word": "part-time",
+    "translation": "неполный рабочий день",
+    "example": "She works part-time at a café."
+  },
+  {
+    "word": "participant",
+    "translation": "участник",
+    "example": "Each participant received a certificate."
+  },
+  {
+    "word": "participation",
+    "translation": "участие",
+    "example": "Her participation in the project was crucial."
+  },
+  {
+    "word": "partly",
+    "translation": "частично",
+    "example": "The plan was only partly successful."
+  },
+  {
+    "word": "partnership",
+    "translation": "партнерство",
+    "example": "They formed a business partnership."
+  },
+  {
+    "word": "passage",
+    "translation": "прохождение",
+    "example": "The passage of the bill was delayed."
+  },
+  {
+    "word": "passionate",
+    "translation": "страстный",
+    "example": "He is passionate about music."
+  },
+  {
+    "word": "password",
+    "translation": "пароль",
+    "example": "You need a password to access the account."
+  },
+  {
+    "word": "patch",
+    "translation": "заплатка",
+    "example": "She sewed a patch onto the jeans."
+  },
+  {
+    "word": "patience",
+    "translation": "терпение",
+    "example": "You need patience to learn a new skill."
+  },
+  {
+    "word": "patient",
+    "translation": "пациент",
+    "example": "The patient was taken to the hospital."
+  },
+  {
+    "word": "pause",
+    "translation": "пауза",
+    "example": "He took a pause before answering."
+  },
+  {
+    "word": "peer",
+    "translation": "ровесник",
+    "example": "He was respected by his peers."
+  },
+  {
+    "word": "penalty",
+    "translation": "штраф",
+    "example": "He received a penalty for speeding."
+  },
+  {
+    "word": "pension",
+    "translation": "пенсия",
+    "example": "He lives on his pension."
+  },
+  {
+    "word": "perceive",
+    "translation": "воспринимать",
+    "example": "How do you perceive this situation?"
+  },
+  {
+    "word": "perception",
+    "translation": "восприятие",
+    "example": "His perception of reality is distorted."
+  },
+  {
+    "word": "permanent",
+    "translation": "постоянный",
+    "example": "She found a permanent job."
+  },
+  {
+    "word": "permanently",
+    "translation": "постоянно",
+    "example": "He moved to a new city permanently."
+  },
+  {
+    "word": "permit",
+    "translation": "разрешать",
+    "example": "Smoking is not permitted here."
+  },
+  {
+    "word": "perspective",
+    "translation": "перспектива",
+    "example": "Try to see the situation from a different perspective."
+  },
+  {
+    "word": "pharmacy",
+    "translation": "аптека",
+    "example": "She went to the pharmacy to get her prescription."
+  },
+  {
+    "word": "phase",
+    "translation": "фаза",
+    "example": "This is just a phase in your life."
+  },
+  {
+    "word": "phenomenon",
+    "translation": "феномен",
+    "example": "The Northern Lights are a natural phenomenon."
+  },
+  {
+    "word": "philosophy",
+    "translation": "философия",
+    "example": "He studied philosophy in college."
+  },
+  {
+    "word": "physician",
+    "translation": "врач",
+    "example": "She consulted her physician about her symptoms."
+  },
+  {
+    "word": "pick",
+    "translation": "выбирать",
+    "example": "You can pick any book you like."
+  },
+  {
+    "word": "picture",
+    "translation": "картина",
+    "example": "She hung a picture on the wall."
+  },
+  {
+    "word": "pile",
+    "translation": "куча",
+    "example": "There was a pile of books on the table."
+  },
+  {
+    "word": "pill",
+    "translation": "таблетка",
+    "example": "She took a pill for her headache."
+  },
+  {
+    "word": "pitch",
+    "translation": "поле",
+    "example": "The soccer game was held on a large pitch."
+  },
+  {
+    "word": "pity",
+    "translation": "жалость",
+    "example": "It's a pity that you couldn't come to the party."
+  },
+  {
+    "word": "placement",
+    "translation": "размещение",
+    "example": "She is looking for a job placement in marketing."
+  },
+  {
+    "word": "plain",
+    "translation": "простой",
+    "example": "She wore a plain dress."
+  },
+  {
+    "word": "plot",
+    "translation": "сюжет",
+    "example": "The plot of the movie was intriguing."
+  },
+  {
+    "word": "plus",
+    "translation": "плюс",
+    "example": "The cost is $50, plus tax."
+  },
+  {
+    "word": "pointed",
+    "translation": "острый",
+    "example": "The pencil has a pointed tip."
+  },
+  {
+    "word": "popularity",
+    "translation": "популярность",
+    "example": "The band's popularity has grown rapidly."
+  },
+  {
+    "word": "portion",
+    "translation": "порция",
+    "example": "She ate a large portion of the meal."
+  },
+  {
+    "word": "pose",
+    "translation": "поза",
+    "example": "She struck a pose for the camera."
+  },
+  {
+    "word": "position",
+    "translation": "позиция",
+    "example": "He applied for the manager position."
+  },
+  {
+    "word": "positive",
+    "translation": "положительный",
+    "example": "She has a positive attitude."
+  },
+  {
+    "word": "possess",
+    "translation": "обладать",
+    "example": "He possesses a great talent for music."
+  },
+  {
+    "word": "potential",
+    "translation": "потенциал",
+    "example": "She has the potential to be a great leader."
+  },
+  {
+    "word": "potentially",
+    "translation": "потенциально",
+    "example": "This could potentially be a huge breakthrough."
+  },
+  {
+    "word": "power",
+    "translation": "сила",
+    "example": "He has the power to make decisions."
+  },
+  {
+    "word": "praise",
+    "translation": "хвалить",
+    "example": "The teacher praised the student for her hard work."
+  },
+  {
+    "word": "precede",
+    "translation": "предшествовать",
+    "example": "A brief introduction will precede the lecture."
+  },
+  {
+    "word": "precise",
+    "translation": "точный",
+    "example": "She gave a precise description of the event."
+  },
+  {
+    "word": "precisely",
+    "translation": "точно",
+    "example": "The machine cuts the metal precisely."
+  },
+  {
+    "word": "predictable",
+    "translation": "предсказуемый",
+    "example": "The plot of the movie was very predictable."
+  },
+  {
+    "word": "preference",
+    "translation": "предпочтение",
+    "example": "She has a preference for classical music."
+  },
+  {
+    "word": "pregnant",
+    "translation": "беременная",
+    "example": "She is pregnant with her first child."
+  },
+  {
+    "word": "preparation",
+    "translation": "подготовка",
+    "example": "Preparation for the event took weeks."
+  },
+  {
+    "word": "presence",
+    "translation": "присутствие",
+    "example": "Your presence is requested at the meeting."
+  },
+  {
+    "word": "preserve",
+    "translation": "сохранять",
+    "example": "They work to preserve the environment."
+  },
+  {
+    "word": "presidential",
+    "translation": "президентский",
+    "example": "The presidential election is next month."
+  },
+  {
+    "word": "price",
+    "translation": "цена",
+    "example": "The price of gas has increased."
+  },
+  {
+    "word": "pride",
+    "translation": "гордость",
+    "example": "He takes great pride in his work."
+  },
+  {
+    "word": "primarily",
+    "translation": "в основном",
+    "example": "The team is primarily composed of volunteers."
+  },
+  {
+    "word": "prime",
+    "translation": "основной",
+    "example": "He is the prime suspect in the case."
+  },
+  {
+    "word": "principal",
+    "translation": "основной",
+    "example": "The principal reason for the decision is cost."
+  },
+  {
+    "word": "principle",
+    "translation": "принцип",
+    "example": "She believes in the principle of equality."
+  },
+  {
+    "word": "print",
+    "translation": "печатать",
+    "example": "He needs to print the document."
+  },
+  {
+    "word": "prior",
+    "translation": "предыдущий",
+    "example": "He had no prior experience in the field."
+  },
+  {
+    "word": "priority",
+    "translation": "приоритет",
+    "example": "Safety is our top priority."
+  },
+  {
+    "word": "privacy",
+    "translation": "конфиденциальность",
+    "example": "She values her privacy."
+  },
+  {
+    "word": "probability",
+    "translation": "вероятность",
+    "example": "There is a high probability of rain tomorrow."
+  },
+  {
+    "word": "probable",
+    "translation": "вероятный",
+    "example": "It is probable that he will attend the meeting."
+  },
+  {
+    "word": "procedure",
+    "translation": "процедура",
+    "example": "The procedure for applying is simple."
+  },
+  {
+    "word": "proceed",
+    "translation": "продолжать",
+    "example": "You may proceed with your presentation."
+  },
+  {
+    "word": "process",
+    "translation": "процесс",
+    "example": "The process of approval will take two weeks."
+  },
+  {
+    "word": "produce",
+    "translation": "производить",
+    "example": "The factory produces electronic goods."
+  },
+  {
+    "word": "professional",
+    "translation": "профессиональный",
+    "example": "She is a professional musician."
+  },
+  {
+    "word": "programming",
+    "translation": "программирование",
+    "example": "He is studying computer programming."
+  },
+  {
+    "word": "progress",
+    "translation": "прогресс",
+    "example": "They have made significant progress in their research."
+  },
+  {
+    "word": "progressive",
+    "translation": "прогрессивный",
+    "example": "She has progressive ideas about education."
+  },
+  {
+    "word": "prohibit",
+    "translation": "запрещать",
+    "example": "Smoking is prohibited in the building."
+  },
+  {
+    "word": "project",
+    "translation": "проект",
+    "example": "The project will be completed next year."
+  },
+  {
+    "word": "promising",
+    "translation": "многообещающий",
+    "example": "She has a promising future in medicine."
+  },
+  {
+    "word": "promotion",
+    "translation": "повышение",
+    "example": "He received a promotion at work."
+  },
+  {
+    "word": "prompt",
+    "translation": "быстрый",
+    "example": "She gave a prompt reply."
+  },
+  {
+    "word": "proof",
+    "translation": "доказательство",
+    "example": "They need proof of identity."
+  },
+  {
+    "word": "proportion",
+    "translation": "пропорция",
+    "example": "The proportion of men to women is 2:1."
+  },
+  {
+    "word": "proposal",
+    "translation": "предложение",
+    "example": "They discussed the proposal at the meeting."
+  },
+  {
+    "word": "propose",
+    "translation": "предлагать",
+    "example": "He proposed a new plan."
+  },
+  {
+    "word": "prospect",
+    "translation": "перспектива",
+    "example": "The prospect of a new job excited her."
+  },
+  {
+    "word": "protection",
+    "translation": "защита",
+    "example": "They need protection from the rain."
+  },
+  {
+    "word": "protein",
+    "translation": "белок",
+    "example": "Meat is a good source of protein."
+  },
+  {
+    "word": "protester",
+    "translation": "протестующий",
+    "example": "The protester held a sign in the street."
+  },
+  {
+    "word": "psychological",
+    "translation": "психологический",
+    "example": "She is studying psychological effects of trauma."
+  },
+  {
+    "word": "psychologist",
+    "translation": "психолог",
+    "example": "The psychologist talked to the children."
+  },
+  {
+    "word": "psychology",
+    "translation": "психология",
+    "example": "She has a degree in psychology."
+  },
+  {
+    "word": "publication",
+    "translation": "публикация",
+    "example": "The publication of the book was delayed."
+  },
+  {
+    "word": "publicity",
+    "translation": "реклама",
+    "example": "The event received a lot of publicity."
+  },
+  {
+    "word": "publishing",
+    "translation": "издательское дело",
+    "example": "He works in the publishing industry."
+  },
+  {
+    "word": "punk",
+    "translation": "панк",
+    "example": "He is a fan of punk music."
+  },
+  {
+    "word": "pupil",
+    "translation": "ученик",
+    "example": "The pupil answered the teacher's question."
+  },
+  {
+    "word": "purchase",
+    "translation": "покупка",
+    "example": "She made a purchase online."
+  },
+  {
+    "word": "pure",
+    "translation": "чистый",
+    "example": "The water is pure and clean."
+  },
+  {
+    "word": "purely",
+    "translation": "чисто",
+    "example": "The decision was made purely on merit."
+  },
+  {
+    "word": "pursue",
+    "translation": "преследовать",
+    "example": "He wants to pursue a career in law."
+  },
+  {
+    "word": "pursuit",
+    "translation": "поиск",
+    "example": "The police were in pursuit of the suspect."
+  },
+  {
+    "word": "puzzle",
+    "translation": "головоломка",
+    "example": "She enjoys solving puzzles."
+  },
+  {
+    "word": "questionnaire",
+    "translation": "анкета",
+    "example": "Please fill out the questionnaire."
+  },
+  {
+    "word": "racial",
+    "translation": "расовый",
+    "example": "They are working to combat racial discrimination."
+  },
+  {
+    "word": "racism",
+    "translation": "расизм",
+    "example": "The organization fights against racism."
+  },
+  {
+    "word": "racist",
+    "translation": "расист",
+    "example": "He made a racist remark."
+  },
+  {
+    "word": "radiation",
+    "translation": "радиация",
+    "example": "They measured the radiation levels."
+  },
+  {
+    "word": "rail",
+    "translation": "рельс",
+    "example": "The train runs on a rail track."
+  },
+  {
+    "word": "random",
+    "translation": "случайный",
+    "example": "The winner was chosen at random."
+  },
+  {
+    "word": "range",
+    "translation": "диапазон",
+    "example": "The price range is between $10 and $50."
+  },
+  {
+    "word": "rank",
+    "translation": "ранг",
+    "example": "He holds a high rank in the army."
+  },
+  {
+    "word": "rapid",
+    "translation": "быстрый",
+    "example": "The patient showed rapid improvement."
+  },
+  {
+    "word": "rapidly",
+    "translation": "быстро",
+    "example": "The disease spread rapidly."
+  },
+  {
+    "word": "rat",
+    "translation": "крыса",
+    "example": "They found a rat in the basement."
+  },
+  {
+    "word": "rate",
+    "translation": "ставка",
+    "example": "The interest rate is 5%."
+  },
+  {
+    "word": "rating",
+    "translation": "рейтинг",
+    "example": "The movie received a high rating."
+  },
+  {
+    "word": "raw",
+    "translation": "сырой",
+    "example": "She likes to eat raw vegetables."
+  },
+  {
+    "word": "reach",
+    "translation": "достигать",
+    "example": "He reached the top of the mountain."
+  },
+  {
+    "word": "realistic",
+    "translation": "реалистичный",
+    "example": "Her paintings are very realistic."
+  },
+  {
+    "word": "reasonable",
+    "translation": "разумный",
+    "example": "The price is reasonable."
+  },
+  {
+    "word": "reasonably",
+    "translation": "разумно",
+    "example": "She was reasonably sure of her decision."
+  },
+  {
+    "word": "rebuild",
+    "translation": "восстанавливать",
+    "example": "They plan to rebuild the old house."
+  },
+  {
+    "word": "recall",
+    "translation": "вспоминать",
+    "example": "He couldn't recall her name."
+  },
+  {
+    "word": "receiver",
+    "translation": "получатель",
+    "example": "The receiver of the package was not home."
+  },
+  {
+    "word": "recession",
+    "translation": "рецессия",
+    "example": "The country is facing a recession."
+  },
+  {
+    "word": "reckon",
+    "translation": "считать",
+    "example": "I reckon it will take about an hour."
+  },
+  {
+    "word": "recognition",
+    "translation": "признание",
+    "example": "She received recognition for her work."
+  },
+  {
+    "word": "recover",
+    "translation": "восстановиться",
+    "example": "He hopes to recover soon."
+  },
+  {
+    "word": "recovery",
+    "translation": "восстановление",
+    "example": "His recovery took several weeks."
+  },
+  {
+    "word": "recruit",
+    "translation": "набирать",
+    "example": "They are looking to recruit new members."
+  },
+  {
+    "word": "reduction",
+    "translation": "сокращение",
+    "example": "The company announced a reduction in staff."
+  },
+  {
+    "word": "referee",
+    "translation": "судья",
+    "example": "The referee made a controversial decision."
+  },
+  {
+    "word": "refugee",
+    "translation": "беженец",
+    "example": "The camp is home to thousands of refugees."
+  },
+  {
+    "word": "regard",
+    "translation": "уважение",
+    "example": "She has a high regard for her teacher."
+  },
+  {
+    "word": "regional",
+    "translation": "региональный",
+    "example": "They held a regional meeting."
+  },
+  {
+    "word": "register",
+    "translation": "регистрировать",
+    "example": "You need to register for the conference."
+  },
+  {
+    "word": "registration",
+    "translation": "регистрация",
+    "example": "The registration process is simple."
+  },
+  {
+    "word": "regret",
+    "translation": "сожалеть",
+    "example": "He regrets his decision."
+  },
+  {
+    "word": "regulate",
+    "translation": "регулировать",
+    "example": "The government regulates the industry."
+  },
+  {
+    "word": "regulation",
+    "translation": "регулирование",
+    "example": "They must comply with new regulations."
+  },
+  {
+    "word": "reinforce",
+    "translation": "усиливать",
+    "example": "The bridge was reinforced with steel beams."
+  },
+  {
+    "word": "relatively",
+    "translation": "относительно",
+    "example": "The task was relatively easy."
+  },
+  {
+    "word": "relevant",
+    "translation": "уместный",
+    "example": "Her comments were not relevant to the discussion."
+  },
+  {
+    "word": "relief",
+    "translation": "облегчение",
+    "example": "She felt a sense of relief."
+  },
+  {
+    "word": "relieve",
+    "translation": "облегчить",
+    "example": "The medication will relieve the pain."
+  },
+  {
+    "word": "relieved",
+    "translation": "облегченный",
+    "example": "He was relieved to hear the good news."
+  },
+  {
+    "word": "rely",
+    "translation": "полагаться",
+    "example": "You can rely on him for help."
+  },
+  {
+    "word": "remark",
+    "translation": "замечание",
+    "example": "His remark was unexpected."
+  },
+  {
+    "word": "remarkably",
+    "translation": "замечательно",
+    "example": "The plan worked remarkably well."
+  },
+  {
+    "word": "reporting",
+    "translation": "репортаж",
+    "example": "She is known for her investigative reporting."
+  },
+  {
+    "word": "representative",
+    "translation": "представитель",
+    "example": "A company representative will attend the meeting."
+  },
+  {
+    "word": "reputation",
+    "translation": "репутация",
+    "example": "He has a good reputation in the community."
+  },
+  {
+    "word": "requirement",
+    "translation": "требование",
+    "example": "They have strict requirements for the job."
+  },
+  {
+    "word": "rescue",
+    "translation": "спасать",
+    "example": "The firefighters rescued the cat from the tree."
+  },
+  {
+    "word": "reserve",
+    "translation": "резервировать",
+    "example": "They reserved a table at the restaurant."
+  },
+  {
+    "word": "resident",
+    "translation": "житель",
+    "example": "She is a resident of New York."
+  },
+  {
+    "word": "resign",
+    "translation": "уходить в отставку",
+    "example": "He decided to resign from his position."
+  },
+  {
+    "word": "resist",
+    "translation": "сопротивляться",
+    "example": "She couldn't resist the temptation."
+  },
+  {
+    "word": "resolution",
+    "translation": "разрешение",
+    "example": "They reached a resolution after many hours of discussion."
+  },
+  {
+    "word": "resolve",
+    "translation": "решать",
+    "example": "They need to resolve their differences."
+  },
+  {
+    "word": "resort",
+    "translation": "курорт",
+    "example": "They stayed at a resort in Hawaii."
+  },
+  {
+    "word": "restore",
+    "translation": "восстанавливать",
+    "example": "They plan to restore the old building."
+  },
+  {
+    "word": "restrict",
+    "translation": "ограничивать",
+    "example": "They restrict access to the area."
+  },
+  {
+    "word": "restriction",
+    "translation": "ограничение",
+    "example": "There are restrictions on parking."
+  },
+  {
+    "word": "résumé",
+    "translation": "резюме",
+    "example": "She submitted her résumé to the company."
+  },
+  {
+    "word": "retail",
+    "translation": "розничная торговля",
+    "example": "She works in retail."
+  },
+  {
+    "word": "retain",
+    "translation": "удерживать",
+    "example": "They want to retain their best employees."
+  },
+  {
+    "word": "retirement",
+    "translation": "выход на пенсию",
+    "example": "He is looking forward to his retirement."
+  },
+  {
+    "word": "reveal",
+    "translation": "раскрывать",
+    "example": "The test results will reveal the truth."
+  },
+  {
+    "word": "revenue",
+    "translation": "доход",
+    "example": "The company's revenue increased last year."
+  },
+  {
+    "word": "revision",
+    "translation": "пересмотр",
+    "example": "They made a revision to the document."
+  },
+  {
+    "word": "revolution",
+    "translation": "революция",
+    "example": "The revolution changed the country forever."
+  },
+  {
+    "word": "reward",
+    "translation": "награда",
+    "example": "He received a reward for his hard work."
+  },
+  {
+    "word": "rhythm",
+    "translation": "ритм",
+    "example": "The rhythm of the music was captivating."
+  },
+  {
+    "word": "rid",
+    "translation": "избавлять",
+    "example": "She wants to get rid of old clothes."
+  },
+  {
+    "word": "ridiculous",
+    "translation": "нелепый",
+    "example": "The idea was completely ridiculous."
+  },
+  {
+    "word": "risky",
+    "translation": "рискованный",
+    "example": "Investing in stocks can be risky."
+  },
+  {
+    "word": "rival",
+    "translation": "соперник",
+    "example": "He faced a strong rival in the competition."
+  },
+  {
+    "word": "rob",
+    "translation": "грабить",
+    "example": "The thieves planned to rob the bank."
+  },
+  {
+    "word": "robbery",
+    "translation": "ограбление",
+    "example": "The robbery took place in broad daylight."
+  },
+  {
+    "word": "rocket",
+    "translation": "ракета",
+    "example": "The rocket launched successfully."
+  },
+  {
+    "word": "romance",
+    "translation": "романтика",
+    "example": "They enjoyed a night of romance."
+  },
+  {
+    "word": "root",
+    "translation": "корень",
+    "example": "The tree's roots are deep."
+  },
+  {
+    "word": "rose",
+    "translation": "роза",
+    "example": "She received a bouquet of roses."
+  },
+  {
+    "word": "roughly",
+    "translation": "примерно",
+    "example": "There were roughly 100 people at the event."
+  },
+  {
+    "word": "round",
+    "translation": "круглый",
+    "example": "The table was round."
+  },
+  {
+    "word": "routine",
+    "translation": "рутина",
+    "example": "Her morning routine includes exercise."
+  },
+  {
+    "word": "rub",
+    "translation": "тереть",
+    "example": "She rubbed her eyes."
+  },
+  {
+    "word": "rubber",
+    "translation": "резина",
+    "example": "The tires are made of rubber."
+  },
+  {
+    "word": "ruin",
+    "translation": "разрушать",
+    "example": "The storm could ruin the crops."
+  },
+  {
+    "word": "rural",
+    "translation": "сельский",
+    "example": "They live in a rural area."
+  },
+  {
+    "word": "rush",
+    "translation": "спешить",
+    "example": "She had to rush to catch the bus."
+  },
+  {
+    "word": "sample",
+    "translation": "образец",
+    "example": "They collected a sample of the soil."
+  },
+  {
+    "word": "satellite",
+    "translation": "спутник",
+    "example": "The satellite orbits the earth."
+  },
+  {
+    "word": "satisfaction",
+    "translation": "удовлетворение",
+    "example": "She found satisfaction in her work."
+  },
+  {
+    "word": "satisfied",
+    "translation": "удовлетворенный",
+    "example": "He was satisfied with the results."
+  },
+  {
+    "word": "satisfy",
+    "translation": "удовлетворять",
+    "example": "They need to satisfy the customers' demands."
+  },
+  {
+    "word": "saving",
+    "translation": "экономия",
+    "example": "They made a significant saving by buying in bulk."
+  },
+  {
+    "word": "scale",
+    "translation": "масштаб",
+    "example": "The scale of the project is impressive."
+  },
+  {
+    "word": "scandal",
+    "translation": "скандал",
+    "example": "The scandal damaged his reputation."
+  },
+  {
+    "word": "scare",
+    "translation": "пугать",
+    "example": "The loud noise scared the children."
+  },
+  {
+    "word": "scenario",
+    "translation": "сценарий",
+    "example": "They discussed different scenarios for the project."
+  },
+  {
+    "word": "schedule",
+    "translation": "расписание",
+    "example": "The train is running on schedule."
+  },
+  {
+    "word": "scheme",
+    "translation": "схема",
+    "example": "They devised a new scheme to improve sales."
+  },
+  {
+    "word": "scholar",
+    "translation": "ученый",
+    "example": "He is a respected scholar in his field."
+  },
+  {
+    "word": "scholarship",
+    "translation": "стипендия",
+    "example": "She received a scholarship to attend university."
+  },
+  {
+    "word": "scratch",
+    "translation": "царапать",
+    "example": "The cat scratched the furniture."
+  },
+  {
+    "word": "scream",
+    "translation": "кричать",
+    "example": "She screamed when she saw the spider."
+  },
+  {
+    "word": "screen",
+    "translation": "экран",
+    "example": "He watched the movie on a large screen."
+  },
+  {
+    "word": "screening",
+    "translation": "показ",
+    "example": "There will be a screening of the film tonight."
+  },
+  {
+    "word": "seat",
+    "translation": "сиденье",
+    "example": "She took a seat by the window."
+  },
+  {
+    "word": "sector",
+    "translation": "сектор",
+    "example": "He works in the financial sector."
+  },
+  {
+    "word": "secure",
+    "translation": "обеспечивать безопасность",
+    "example": "They need to secure the area before the event."
+  },
+  {
+    "word": "seek",
+    "translation": "искать",
+    "example": "He is seeking a new job."
+  },
+  {
+    "word": "seeker",
+    "translation": "искатель",
+    "example": "Job seekers need to be prepared for interviews."
+  },
+  {
+    "word": "select",
+    "translation": "выбирать",
+    "example": "She was selected for the role."
+  },
+  {
+    "word": "selection",
+    "translation": "выбор",
+    "example": "The selection process was rigorous."
+  },
+  {
+    "word": "self",
+    "translation": "сам",
+    "example": "She is very self-confident."
+  },
+  {
+    "word": "seminar",
+    "translation": "семинар",
+    "example": "He attended a seminar on digital marketing."
+  },
+  {
+    "word": "senior",
+    "translation": "старший",
+    "example": "She is a senior manager at the company."
+  },
+  {
+    "word": "sense",
+    "translation": "чувство",
+    "example": "He has a good sense of humor."
+  },
+  {
+    "word": "sensitive",
+    "translation": "чувствительный",
+    "example": "She has sensitive skin."
+  },
+  {
+    "word": "sentence",
+    "translation": "предложение",
+    "example": "He wrote a long sentence."
+  },
+  {
+    "word": "sequence",
+    "translation": "последовательность",
+    "example": "The sequence of events is important to understand."
+  },
+  {
+    "word": "session",
+    "translation": "сессия",
+    "example": "The training session will last two hours."
+  },
+  {
+    "word": "settle",
+    "translation": "устраиваться",
+    "example": "They decided to settle in a small town."
+  },
+  {
+    "word": "settler",
+    "translation": "поселенец",
+    "example": "The settlers established a new community."
+  },
+  {
+    "word": "severe",
+    "translation": "серьезный",
+    "example": "The storm caused severe damage."
+  },
+  {
+    "word": "severely",
+    "translation": "серьезно",
+    "example": "She was severely injured in the accident."
+  },
+  {
+    "word": "sexy",
+    "translation": "сексуальный",
+    "example": "She wore a sexy dress to the party."
+  },
+  {
+    "word": "shade",
+    "translation": "тень",
+    "example": "They sat in the shade of a tree."
+  },
+  {
+    "word": "shadow",
+    "translation": "тень",
+    "example": "His shadow stretched across the ground."
+  },
+  {
+    "word": "shallow",
+    "translation": "мелкий",
+    "example": "The water is shallow near the shore."
+  },
+  {
+    "word": "shame",
+    "translation": "позор",
+    "example": "It's a shame that he couldn't attend the party."
+  },
+  {
+    "word": "shape",
+    "translation": "форма",
+    "example": "The table has a round shape."
+  },
+  {
+    "word": "shaped",
+    "translation": "сформированный",
+    "example": "The cookie was shaped like a star."
+  },
+  {
+    "word": "shelter",
+    "translation": "приют",
+    "example": "They found shelter from the storm."
+  },
+  {
+    "word": "shift",
+    "translation": "смена",
+    "example": "He works the night shift."
+  },
+  {
+    "word": "ship",
+    "translation": "корабль",
+    "example": "The ship sailed across the ocean."
+  },
+  {
+    "word": "shock",
+    "translation": "шок",
+    "example": "The news came as a shock."
+  },
+  {
+    "word": "shocked",
+    "translation": "потрясенный",
+    "example": "He was shocked by the sudden news."
+  },
+  {
+    "word": "shocking",
+    "translation": "шокирующий",
+    "example": "The documentary was shocking."
+  },
+  {
+    "word": "shooting",
+    "translation": "стрельба",
+    "example": "The shooting happened in the city center."
+  },
+  {
+    "word": "shore",
+    "translation": "берег",
+    "example": "They walked along the shore."
+  },
+  {
+    "word": "short-term",
+    "translation": "краткосрочный",
+    "example": "They have short-term goals."
+  },
+  {
+    "word": "shortage",
+    "translation": "нехватка",
+    "example": "There is a shortage of medical supplies."
+  },
+  {
+    "word": "shortly",
+    "translation": "вскоре",
+    "example": "She will arrive shortly."
+  },
+  {
+    "word": "shot",
+    "translation": "выстрел",
+    "example": "He took a shot at the target."
+  },
+  {
+    "word": "sibling",
+    "translation": "брат или сестра",
+    "example": "She has two siblings, a brother and a sister."
+  },
+  {
+    "word": "sidewalk",
+    "translation": "тротуар",
+    "example": "They walked along the sidewalk."
+  },
+  {
+    "word": "signature",
+    "translation": "подпись",
+    "example": "Please put your signature here."
+  },
+  {
+    "word": "significance",
+    "translation": "значение",
+    "example": "The significance of the event was not lost on them."
+  },
+  {
+    "word": "significant",
+    "translation": "значительный",
+    "example": "The discovery was significant for the scientific community."
+  },
+  {
+    "word": "significantly",
+    "translation": "значительно",
+    "example": "The cost has increased significantly."
+  },
+  {
+    "word": "silence",
+    "translation": "тишина",
+    "example": "The room was filled with silence."
+  },
+  {
+    "word": "silk",
+    "translation": "шелк",
+    "example": "She wore a dress made of silk."
+  },
+  {
+    "word": "sincere",
+    "translation": "искренний",
+    "example": "She gave a sincere apology."
+  },
+  {
+    "word": "skilled",
+    "translation": "умелый",
+    "example": "He is a skilled craftsman."
+  },
+  {
+    "word": "skull",
+    "translation": "череп",
+    "example": "The skull was found during the excavation."
+  },
+  {
+    "word": "slave",
+    "translation": "раб",
+    "example": "Slavery was abolished many years ago."
+  },
+  {
+    "word": "slide",
+    "translation": "скользить",
+    "example": "The children like to slide down the hill."
+  },
+  {
+    "word": "slight",
+    "translation": "незначительный",
+    "example": "He felt a slight pain in his leg."
+  },
+  {
+    "word": "slip",
+    "translation": "скользить",
+    "example": "Be careful not to slip on the wet floor."
+  },
+  {
+    "word": "slogan",
+    "translation": "слоган",
+    "example": "The company's slogan is very catchy."
+  },
+  {
+    "word": "slope",
+    "translation": "склон",
+    "example": "They skied down the slope."
+  },
+  {
+    "word": "so-called",
+    "translation": "так называемый",
+    "example": "He is a so-called expert in the field."
+  },
+  {
+    "word": "solar",
+    "translation": "солнечный",
+    "example": "They installed solar panels on the roof."
+  },
+  {
+    "word": "somehow",
+    "translation": "как-то",
+    "example": "Somehow, they managed to find their way back."
+  },
+  {
+    "word": "sometime",
+    "translation": "иногда",
+    "example": "Let's meet sometime next week."
+  },
+  {
+    "word": "somewhat",
+    "translation": "в некотором роде",
+    "example": "The weather was somewhat better today."
+  },
+  {
+    "word": "sophisticated",
+    "translation": "утонченный",
+    "example": "The software is very sophisticated."
+  },
+  {
+    "word": "soul",
+    "translation": "душа",
+    "example": "He is a kind soul."
+  },
+  {
+    "word": "specialist",
+    "translation": "специалист",
+    "example": "She is a specialist in computer science."
+  },
+  {
+    "word": "specialise",
+    "translation": "специализироваться",
+    "example": "He specialises in artificial intelligence."
+  },
+  {
+    "word": "species",
+    "translation": "вид",
+    "example": "There are many endangered species."
+  },
+  {
+    "word": "specify",
+    "translation": "уточнять",
+    "example": "Please specify your requirements."
+  },
+  {
+    "word": "spectacular",
+    "translation": "зрелищный",
+    "example": "The view from the top was spectacular."
+  },
+  {
+    "word": "spectator",
+    "translation": "зритель",
+    "example": "The spectators cheered for their team."
+  },
+  {
+    "word": "speculate",
+    "translation": "спекулировать",
+    "example": "They speculated about the reasons for his absence."
+  },
+  {
+    "word": "speculation",
+    "translation": "спекуляция",
+    "example": "There was much speculation about the outcome."
+  },
+  {
+    "word": "speed",
+    "translation": "скорость",
+    "example": "The car gained speed as it went downhill."
+  },
+  {
+    "word": "spice",
+    "translation": "специя",
+    "example": "She added some spice to the soup."
+  },
+  {
+    "word": "spill",
+    "translation": "проливать",
+    "example": "Be careful not to spill the coffee."
+  },
+  {
+    "word": "spiritual",
+    "translation": "духовный",
+    "example": "He is on a spiritual journey."
+  },
+  {
+    "word": "spite",
+    "translation": "злоба",
+    "example": "He did it out of spite."
+  },
+  {
+    "word": "split",
+    "translation": "разделять",
+    "example": "They decided to split the cost."
+  },
+  {
+    "word": "spoil",
+    "translation": "портить",
+    "example": "Don't spoil your appetite before dinner."
+  },
+  {
+    "word": "spokesman",
+    "translation": "пресс-секретарь",
+    "example": "The spokesman gave a statement to the press."
+  },
+  {
+    "word": "spokesperson",
+    "translation": "представитель",
+    "example": "The company's spokesperson addressed the issue."
+  },
+  {
+    "word": "spokeswoman",
+    "translation": "пресс-секретарь (женщина)",
+    "example": "The spokeswoman answered all the questions."
+  },
+  {
+    "word": "sponsor",
+    "translation": "спонсор",
+    "example": "The event was funded by several sponsors."
+  },
+  {
+    "word": "sponsorship",
+    "translation": "спонсорство",
+    "example": "They are looking for sponsorship for their project."
+  },
+  {
+    "word": "spot",
+    "translation": "место",
+    "example": "They found a nice spot for a picnic."
+  },
+  {
+    "word": "spread",
+    "translation": "распространять",
+    "example": "The disease spread quickly through the town."
+  },
+  {
+    "word": "stable",
+    "translation": "стабильный",
+    "example": "He has a stable job."
+  },
+  {
+    "word": "stage",
+    "translation": "этап",
+    "example": "They are in the final stage of the project."
+  },
+  {
+    "word": "stall",
+    "translation": "киоск",
+    "example": "She bought some fruit from a stall at the market."
+  },
+  {
+    "word": "stance",
+    "translation": "позиция",
+    "example": "He has a strong stance on environmental issues."
+  },
+  {
+    "word": "stand",
+    "translation": "стоять",
+    "example": "She decided to stand up for her rights."
+  },
+  {
+    "word": "stare",
+    "translation": "смотреть",
+    "example": "He couldn't help but stare at the beautiful painting."
+  },
+  {
+    "word": "starve",
+    "translation": "голодать",
+    "example": "The poor dog was starving."
+  },
+  {
+    "word": "status",
+    "translation": "статус",
+    "example": "What is the status of the project?"
+  },
+  {
+    "word": "steadily",
+    "translation": "неуклонно",
+    "example": "The company has been growing steadily."
+  },
+  {
+    "word": "steady",
+    "translation": "устойчивый",
+    "example": "He found a steady job."
+  },
+  {
+    "word": "steam",
+    "translation": "пар",
+    "example": "The steam from the kettle was hot."
+  },
+  {
+    "word": "steel",
+    "translation": "сталь",
+    "example": "The building is made of steel."
+  },
+  {
+    "word": "steep",
+    "translation": "крутой",
+    "example": "The hill was very steep."
+  },
+  {
+    "word": "step",
+    "translation": "шаг",
+    "example": "He took a step forward."
+  },
+  {
+    "word": "sticky",
+    "translation": "липкий",
+    "example": "The tape was very sticky."
+  },
+  {
+    "word": "stiff",
+    "translation": "жесткий",
+    "example": "The new shoes were stiff and uncomfortable."
+  },
+  {
+    "word": "stimulate",
+    "translation": "стимулировать",
+    "example": "The project is designed to stimulate economic growth."
+  },
+  {
+    "word": "stock",
+    "translation": "запас",
+    "example": "They have a large stock of goods."
+  },
+  {
+    "word": "stream",
+    "translation": "поток",
+    "example": "The stream flows through the forest."
+  },
+  {
+    "word": "strengthen",
+    "translation": "укреплять",
+    "example": "They need to strengthen their team."
+  },
+  {
+    "word": "stretch",
+    "translation": "растягивать",
+    "example": "He stretched before exercising."
+  },
+  {
+    "word": "strict",
+    "translation": "строгий",
+    "example": "The teacher is very strict."
+  },
+  {
+    "word": "strictly",
+    "translation": "строго",
+    "example": "Smoking is strictly prohibited."
+  },
+  {
+    "word": "strike",
+    "translation": "удар",
+    "example": "The workers decided to strike."
+  },
+  {
+    "word": "striking",
+    "translation": "поразительный",
+    "example": "The difference was striking."
+  },
+  {
+    "word": "stroke",
+    "translation": "инсульт",
+    "example": "He suffered a stroke last year."
+  },
+  {
+    "word": "structure",
+    "translation": "структура",
+    "example": "The structure of the building is solid."
+  },
+  {
+    "word": "struggle",
+    "translation": "борьба",
+    "example": "They struggled to make ends meet."
+  },
+  {
+    "word": "stuff",
+    "translation": "вещи",
+    "example": "She packed her stuff and left."
+  },
+  {
+    "word": "stunning",
+    "translation": "ошеломляющий",
+    "example": "The view from the top was stunning."
+  },
+  {
+    "word": "subject",
+    "translation": "предмет",
+    "example": "Math is her favorite subject."
+  },
+  {
+    "word": "submit",
+    "translation": "представлять",
+    "example": "Please submit your application by the deadline."
+  },
+  {
+    "word": "subsequent",
+    "translation": "последующий",
+    "example": "The subsequent events were unexpected."
+  },
+  {
+    "word": "subsequently",
+    "translation": "впоследствии",
+    "example": "She subsequently apologized for her mistake."
+  },
+  {
+    "word": "suburb",
+    "translation": "пригород",
+    "example": "They live in a suburb of the city."
+  },
+  {
+    "word": "suffering",
+    "translation": "страдание",
+    "example": "He is suffering from a severe illness."
+  },
+  {
+    "word": "sufficient",
+    "translation": "достаточный",
+    "example": "There is sufficient evidence to support the claim."
+  },
+  {
+    "word": "sufficiently",
+    "translation": "достаточно",
+    "example": "He explained the problem sufficiently."
+  },
+  {
+    "word": "sum",
+    "translation": "сумма",
+    "example": "The sum of the numbers is ten."
+  },
+  {
+    "word": "super",
+    "translation": "супер",
+    "example": "The movie was super exciting."
+  },
+  {
+    "word": "surgeon",
+    "translation": "хирург",
+    "example": "The surgeon performed the operation successfully."
+  },
+  {
+    "word": "surgery",
+    "translation": "хирургия",
+    "example": "He needs surgery to fix his knee."
+  },
+  {
+    "word": "surround",
+    "translation": "окружать",
+    "example": "They surrounded the house with a fence."
+  },
+  {
+    "word": "surrounding",
+    "translation": "окружающий",
+    "example": "The surrounding area is beautiful."
+  },
+  {
+    "word": "survey",
+    "translation": "опрос",
+    "example": "They conducted a survey of customer satisfaction."
+  },
+  {
+    "word": "survival",
+    "translation": "выживание",
+    "example": "Their survival depended on finding food and water."
+  },
+  {
+    "word": "survivor",
+    "translation": "выживший",
+    "example": "She is a survivor of the accident."
+  },
+  {
+    "word": "suspect",
+    "translation": "подозревать",
+    "example": "They suspect him of stealing the car."
+  },
+  {
+    "word": "suspend",
+    "translation": "приостанавливать",
+    "example": "They decided to suspend the project."
+  },
+  {
+    "word": "sustainable",
+    "translation": "устойчивый",
+    "example": "They focus on sustainable development."
+  },
+  {
+    "word": "swallow",
+    "translation": "глотать",
+    "example": "He swallowed the pill with water."
+  },
+  {
+    "word": "swear",
+    "translation": "клясться",
+    "example": "She swore to tell the truth."
+  },
+  {
+    "word": "sweep",
+    "translation": "подметать",
+    "example": "He swept the floor clean."
+  },
+  {
+    "word": "switch",
+    "translation": "переключать",
+    "example": "She switched off the light."
+  },
+  {
+    "word": "sympathetic",
+    "translation": "сочувствующий",
+    "example": "He was very sympathetic to her situation."
+  },
+  {
+    "word": "sympathy",
+    "translation": "симпатия",
+    "example": "She expressed her sympathy for their loss."
+  },
+  {
+    "word": "tag",
+    "translation": "бирка",
+    "example": "The price tag was still on the dress."
+  },
+  {
+    "word": "tale",
+    "translation": "сказка",
+    "example": "He told a fascinating tale of adventure."
+  },
+  {
+    "word": "tank",
+    "translation": "танк",
+    "example": "The water tank is full."
+  },
+  {
+    "word": "tap",
+    "translation": "кран",
+    "example": "He turned on the tap to wash his hands."
+  },
+  {
+    "word": "target",
+    "translation": "цель",
+    "example": "The target of the campaign is to raise awareness."
+  },
+  {
+    "word": "tear",
+    "translation": "слеза",
+    "example": "A tear rolled down her cheek."
+  },
+  {
+    "word": "technological",
+    "translation": "технологический",
+    "example": "They are at the forefront of technological innovation."
+  },
+  {
+    "word": "teen",
+    "translation": "подросток",
+    "example": "The teen years can be challenging."
+  },
+  {
+    "word": "temple",
+    "translation": "храм",
+    "example": "They visited an ancient temple."
+  },
+  {
+    "word": "temporarily",
+    "translation": "временно",
+    "example": "The store is temporarily closed."
+  },
+  {
+    "word": "temporary",
+    "translation": "временный",
+    "example": "He has a temporary job."
+  },
+  {
+    "word": "tendency",
+    "translation": "тенденция",
+    "example": "She has a tendency to worry."
+  },
+  {
+    "word": "tension",
+    "translation": "напряжение",
+    "example": "There was a lot of tension in the room."
+  },
+  {
+    "word": "term",
+    "translation": "срок",
+    "example": "He was elected for a four-year term."
+  },
+  {
+    "word": "terminal",
+    "translation": "терминал",
+    "example": "They waited at the airport terminal."
+  },
+  {
+    "word": "terms",
+    "translation": "условия",
+    "example": "They agreed to the terms of the contract."
+  },
+  {
+    "word": "terribly",
+    "translation": "ужасно",
+    "example": "He felt terribly sorry for her."
+  },
+  {
+    "word": "terrify",
+    "translation": "пугать",
+    "example": "The haunted house terrifies the children."
+  },
+  {
+    "word": "territory",
+    "translation": "территория",
+    "example": "They explored uncharted territory."
+  },
+  {
+    "word": "terror",
+    "translation": "ужас",
+    "example": "She was filled with terror."
+  },
+  {
+    "word": "terrorism",
+    "translation": "терроризм",
+    "example": "They are working to combat terrorism."
+  },
+  {
+    "word": "terrorist",
+    "translation": "террорист",
+    "example": "The terrorist was captured by the police."
+  },
+  {
+    "word": "testing",
+    "translation": "тестирование",
+    "example": "The new software is still in the testing phase."
+  },
+  {
+    "word": "textbook",
+    "translation": "учебник",
+    "example": "He forgot his textbook at home."
+  },
+  {
+    "word": "theft",
+    "translation": "кража",
+    "example": "He was arrested for theft."
+  },
+  {
+    "word": "therapist",
+    "translation": "терапевт",
+    "example": "She sees a therapist every week."
+  },
+  {
+    "word": "therapy",
+    "translation": "терапия",
+    "example": "He is undergoing physical therapy."
+  },
+  {
+    "word": "thesis",
+    "translation": "диссертация",
+    "example": "She is writing her master's thesis."
+  },
+  {
+    "word": "thorough",
+    "translation": "тщательный",
+    "example": "She did a thorough job cleaning the house."
+  },
+  {
+    "word": "thoroughly",
+    "translation": "тщательно",
+    "example": "He thoroughly enjoyed the meal."
+  },
+  {
+    "word": "threat",
+    "translation": "угроза",
+    "example": "The threat of war looms over the region."
+  },
+  {
+    "word": "threaten",
+    "translation": "угрожать",
+    "example": "He threatened to leave if he didn't get a raise."
+  },
+  {
+    "word": "thumb",
+    "translation": "большой палец",
+    "example": "He gave a thumbs-up sign."
+  },
+  {
+    "word": "thus",
+    "translation": "таким образом",
+    "example": "She was late, thus missing the meeting."
+  },
+  {
+    "word": "timing",
+    "translation": "сроки",
+    "example": "The timing of the event was perfect."
+  },
+  {
+    "word": "tissue",
+    "translation": "ткань",
+    "example": "He wiped his nose with a tissue."
+  },
+  {
+    "word": "title",
+    "translation": "название",
+    "example": "The title of the book is 'War and Peace'."
+  },
+  {
+    "word": "tone",
+    "translation": "тон",
+    "example": "His tone was very serious."
+  },
+  {
+    "word": "tough",
+    "translation": "жесткий",
+    "example": "He is known for being a tough negotiator."
+  },
+  {
+    "word": "tournament",
+    "translation": "турнир",
+    "example": "They won the soccer tournament."
+  },
+  {
+    "word": "trace",
+    "translation": "след",
+    "example": "The police found no trace of the suspect."
+  },
+  {
+    "word": "track",
+    "translation": "следить",
+    "example": "They track the packages to ensure delivery."
+  },
+  {
+    "word": "trading",
+    "translation": "торговля",
+    "example": "They are involved in international trading."
+  },
+  {
+    "word": "tragedy",
+    "translation": "трагедия",
+    "example": "The play is a classic tragedy."
+  },
+  {
+    "word": "tragic",
+    "translation": "трагический",
+    "example": "The news was tragic."
+  },
+  {
+    "word": "trait",
+    "translation": "черта",
+    "example": "Honesty is a valued trait."
+  },
+  {
+    "word": "transfer",
+    "translation": "перевод",
+    "example": "He requested a transfer to another department."
+  },
+  {
+    "word": "transform",
+    "translation": "преобразовывать",
+    "example": "They plan to transform the old factory into apartments."
+  },
+  {
+    "word": "transition",
+    "translation": "переход",
+    "example": "The transition to the new system was smooth."
+  },
+  {
+    "word": "transmit",
+    "translation": "передавать",
+    "example": "They can transmit data wirelessly."
+  },
+  {
+    "word": "trap",
+    "translation": "ловушка",
+    "example": "The animal was caught in a trap."
+  },
+  {
+    "word": "treasure",
+    "translation": "сокровище",
+    "example": "They searched for hidden treasure."
+  },
+  {
+    "word": "trial",
+    "translation": "судебный процесс",
+    "example": "The trial lasted for several weeks."
+  },
+  {
+    "word": "tribe",
+    "translation": "племя",
+    "example": "The tribe has a rich cultural history."
+  },
+  {
+    "word": "trigger",
+    "translation": "вызывать",
+    "example": "The incident triggered a wave of protests."
+  },
+  {
+    "word": "trillion",
+    "translation": "триллион",
+    "example": "The national debt is in the trillions."
+  },
+  {
+    "word": "trip",
+    "translation": "поездка",
+    "example": "They are planning a trip to Europe."
+  },
+  {
+    "word": "troop",
+    "translation": "отряд",
+    "example": "The troops were deployed to the conflict zone."
+  },
+  {
+    "word": "tropical",
+    "translation": "тропический",
+    "example": "They enjoyed the tropical climate."
+  },
+  {
+    "word": "trouble",
+    "translation": "проблема",
+    "example": "He is always getting into trouble."
+  },
+  {
+    "word": "truly",
+    "translation": "действительно",
+    "example": "She is truly talented."
+  },
+  {
+    "word": "trust",
+    "translation": "доверять",
+    "example": "You can trust him to do the job right."
+  },
+  {
+    "word": "try",
+    "translation": "пытаться",
+    "example": "He will try to fix the problem."
+  },
+  {
+    "word": "tsunami",
+    "translation": "цунами",
+    "example": "The tsunami caused widespread destruction."
+  },
+  {
+    "word": "tune",
+    "translation": "мелодия",
+    "example": "He played a familiar tune on the piano."
+  },
+  {
+    "word": "tunnel",
+    "translation": "туннель",
+    "example": "They drove through the tunnel."
+  },
+  {
+    "word": "ultimate",
+    "translation": "окончательный",
+    "example": "Their ultimate goal is to win the championship."
+  },
+  {
+    "word": "ultimately",
+    "translation": "в конечном счете",
+    "example": "Ultimately, it is your decision."
+  },
+  {
+    "word": "unacceptable",
+    "translation": "неприемлемый",
+    "example": "His behavior was unacceptable."
+  },
+  {
+    "word": "uncertainty",
+    "translation": "неопределенность",
+    "example": "There is a lot of uncertainty about the future."
+  },
+  {
+    "word": "unconscious",
+    "translation": "без сознания",
+    "example": "He was knocked unconscious during the fight."
+  },
+  {
+    "word": "undergo",
+    "translation": "проходить",
+    "example": "She will undergo surgery next week."
+  },
+  {
+    "word": "undertake",
+    "translation": "предпринимать",
+    "example": "They will undertake a new project."
+  },
+  {
+    "word": "unexpected",
+    "translation": "неожиданный",
+    "example": "His arrival was unexpected."
+  },
+  {
+    "word": "unfold",
+    "translation": "разворачивать",
+    "example": "The events unfolded slowly."
+  },
+  {
+    "word": "unfortunate",
+    "translation": "неудачный",
+    "example": "It was an unfortunate accident."
+  },
+  {
+    "word": "unique",
+    "translation": "уникальный",
+    "example": "She has a unique talent."
+  },
+  {
+    "word": "unite",
+    "translation": "объединять",
+    "example": "They were united by a common goal."
+  },
+  {
+    "word": "universal",
+    "translation": "универсальный",
+    "example": "The desire for freedom is universal."
+  },
+  {
+    "word": "universe",
+    "translation": "вселенная",
+    "example": "They studied the origins of the universe."
+  },
+  {
+    "word": "unknown",
+    "translation": "неизвестный",
+    "example": "The cause of the disease is unknown."
+  },
+  {
+    "word": "upper",
+    "translation": "верхний",
+    "example": "He lives in the upper part of the building."
+  },
+  {
+    "word": "upwards",
+    "translation": "вверх",
+    "example": "The balloon floated upwards."
+  },
+  {
+    "word": "urban",
+    "translation": "городской",
+    "example": "They live in an urban area."
+  },
+  {
+    "word": "urge",
+    "translation": "побуждать",
+    "example": "He urged her to apply for the job."
+  },
+  {
+    "word": "urgent",
+    "translation": "срочный",
+    "example": "She has an urgent message for you."
+  },
+  {
+    "word": "usage",
+    "translation": "использование",
+    "example": "The manual explains the usage of the device."
+  },
+  {
+    "word": "useless",
+    "translation": "бесполезный",
+    "example": "The broken tool is useless."
+  },
+  {
+    "word": "valid",
+    "translation": "действительный",
+    "example": "The ticket is valid for one day."
+  },
+  {
+    "word": "value",
+    "translation": "ценность",
+    "example": "The value of the painting is very high."
+  },
+  {
+    "word": "variation",
+    "translation": "вариация",
+    "example": "There is a lot of variation in the data."
+  },
+  {
+    "word": "vary",
+    "translation": "изменяться",
+    "example": "Prices vary according to the season."
+  },
+  {
+    "word": "vast",
+    "translation": "обширный",
+    "example": "The desert is vast."
+  },
+  {
+    "word": "venue",
+    "translation": "место проведения",
+    "example": "The concert will be held at a new venue."
+  },
+  {
+    "word": "vertical",
+    "translation": "вертикальный",
+    "example": "The lines are vertical."
+  },
+  {
+    "word": "very",
+    "translation": "очень",
+    "example": "She is very talented."
+  },
+  {
+    "word": "via",
+    "translation": "через",
+    "example": "They traveled via Paris."
+  },
+  {
+    "word": "victory",
+    "translation": "победа",
+    "example": "They celebrated their victory."
+  },
+  {
+    "word": "viewpoint",
+    "translation": "точка зрения",
+    "example": "They discussed the issue from different viewpoints."
+  },
+  {
+    "word": "virtual",
+    "translation": "виртуальный",
+    "example": "He created a virtual world in the game."
+  },
+  {
+    "word": "visa",
+    "translation": "виза",
+    "example": "She applied for a visa to travel to the US."
+  },
+  {
+    "word": "visible",
+    "translation": "видимый",
+    "example": "The mountains are visible from here."
+  },
+  {
+    "word": "vision",
+    "translation": "зрение",
+    "example": "She has perfect vision."
+  },
+  {
+    "word": "visual",
+    "translation": "визуальный",
+    "example": "The presentation included many visual aids."
+  },
+  {
+    "word": "vital",
+    "translation": "жизненно важный",
+    "example": "Water is vital for survival."
+  },
+  {
+    "word": "vitamin",
+    "translation": "витамин",
+    "example": "Vitamin C is important for health."
+  },
+  {
+    "word": "volume",
+    "translation": "объем",
+    "example": "The volume of traffic has increased."
+  },
+  {
+    "word": "voluntary",
+    "translation": "добровольный",
+    "example": "He does voluntary work at the hospital."
+  },
+  {
+    "word": "voting",
+    "translation": "голосование",
+    "example": "The voting process was fair and transparent."
+  },
+  {
+    "word": "wage",
+    "translation": "заработная плата",
+    "example": "They demand higher wages."
+  },
+  {
+    "word": "wander",
+    "translation": "бродить",
+    "example": "He likes to wander around the city."
+  },
+  {
+    "word": "warming",
+    "translation": "потепление",
+    "example": "Global warming is a major concern."
+  },
+  {
+    "word": "way",
+    "translation": "путь",
+    "example": "They found a new way to solve the problem."
+  },
+  {
+    "word": "weakness",
+    "translation": "слабость",
+    "example": "His weakness is chocolate."
+  },
+  {
+    "word": "wealth",
+    "translation": "богатство",
+    "example": "He inherited great wealth from his family."
+  },
+  {
+    "word": "wealthy",
+    "translation": "богатый",
+    "example": "She comes from a wealthy family."
+  },
+  {
+    "word": "weekly",
+    "translation": "еженедельный",
+    "example": "They have a weekly meeting."
+  },
+  {
+    "word": "weird",
+    "translation": "странный",
+    "example": "The movie was really weird."
+  },
+  {
+    "word": "welfare",
+    "translation": "благосостояние",
+    "example": "They are concerned about the welfare of the children."
+  },
+  {
+    "word": "wheat",
+    "translation": "пшеница",
+    "example": "Wheat is used to make bread."
+  },
+  {
+    "word": "whereas",
+    "translation": "в то время как",
+    "example": "He likes tea, whereas she prefers coffee."
+  },
+  {
+    "word": "wherever",
+    "translation": "где бы ни",
+    "example": "He goes wherever she goes."
+  },
+  {
+    "word": "whisper",
+    "translation": "шептать",
+    "example": "She whispered a secret to him."
+  },
+  {
+    "word": "whoever",
+    "translation": "кто бы ни",
+    "example": "Whoever wins the game will get a prize."
+  },
+  {
+    "word": "whom",
+    "translation": "кого",
+    "example": "To whom did you give the book?"
+  },
+  {
+    "word": "widely",
+    "translation": "широко",
+    "example": "The book is widely read."
+  },
+  {
+    "word": "widespread",
+    "translation": "широкораспространенный",
+    "example": "The disease is widespread in the area."
+  },
+  {
+    "word": "wildlife",
+    "translation": "дикая природа",
+    "example": "The reserve is home to diverse wildlife."
+  },
+  {
+    "word": "wind",
+    "translation": "ветер",
+    "example": "The wind blew strongly."
+  },
+  {
+    "word": "wire",
+    "translation": "провод",
+    "example": "They used a wire to fix the fence."
+  },
+  {
+    "word": "wisdom",
+    "translation": "мудрость",
+    "example": "He is known for his wisdom."
+  },
+  {
+    "word": "wise",
+    "translation": "мудрый",
+    "example": "She made a wise decision."
+  },
+  {
+    "word": "withdraw",
+    "translation": "снимать",
+    "example": "He decided to withdraw from the competition."
+  },
+  {
+    "word": "witness",
+    "translation": "свидетель",
+    "example": "She was a witness to the accident."
+  },
+  {
+    "word": "wolf",
+    "translation": "волк",
+    "example": "They saw a wolf in the forest."
+  },
+  {
+    "word": "workforce",
+    "translation": "рабочая сила",
+    "example": "The company has a diverse workforce."
+  },
+  {
+    "word": "workplace",
+    "translation": "место работы",
+    "example": "They promote safety in the workplace."
+  },
+  {
+    "word": "workshop",
+    "translation": "мастерская",
+    "example": "He attended a writing workshop."
+  },
+  {
+    "word": "worm",
+    "translation": "червь",
+    "example": "The bird ate the worm."
+  },
+  {
+    "word": "worse",
+    "translation": "хуже",
+    "example": "The weather got worse."
+  },
+  {
+    "word": "worst",
+    "translation": "наихудший",
+    "example": "This is the worst day ever."
+  },
+  {
+    "word": "worth",
+    "translation": "стоимость",
+    "example": "The painting is worth a lot of money."
+  },
+  {
+    "word": "wound",
+    "translation": "рана",
+    "example": "He bandaged the wound."
+  },
+  {
+    "word": "wrap",
+    "translation": "заворачивать",
+    "example": "She wrapped the gift."
+  },
+  {
+    "word": "wrist",
+    "translation": "запястье",
+    "example": "He wears a watch on his wrist."
+  },
+  {
+    "word": "wrong",
+    "translation": "неправильный",
+    "example": "You have the wrong number."
+  },
+  {
+    "word": "yet",
+    "translation": "еще",
+    "example": "She hasn't finished yet."
   }
 ]
