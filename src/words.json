@@ -1,0 +1,32 @@
+[
+  {
+    "word": "word 1",
+    "translation": "слово 1",
+    "example": "Some sentence with word 1"
+  },
+  {
+    "word": "word 2",
+    "translation": "слово 2",
+    "example": "Some sentence with word 2"
+  },
+  {
+    "word": "word 3",
+    "translation": "слово 3",
+    "example": "Some sentence with word 3"
+  },
+  {
+    "word": "word 4",
+    "translation": "слово 4",
+    "example": "Some sentence with word 4"
+  },
+  {
+    "word": "word 5",
+    "translation": "слово 5",
+    "example": "Some sentence with word 5"
+  },
+  {
+    "word": "word 6",
+    "translation": "слово 6",
+    "example": "Some sentence with word 6"
+  }
+]
