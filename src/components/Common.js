@@ -3,7 +3,7 @@ import { Paper, Button } from '@mui/material';
 import Tasks from './Tasks';
 
 const Common = ({ words }) => {
-  const [started, setStarted] = useState(false)
+  const [started, setStarted] = useState(false);
   return (
     <Paper
       variant="outlined"
