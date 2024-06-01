@@ -9,7 +9,10 @@ const Common = ({ words }) => {
       variant="outlined"
       sx={{
         padding: '1rem',
-        minWidth: '60rem',
+        minWidth: {
+          sm: '100vw',
+          sx: '60rem',
+        },
         minHeight: '30rem',
         display: 'flex',
         flexDirection: 'column',
