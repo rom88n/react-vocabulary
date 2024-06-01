@@ -10,8 +10,8 @@ const Common = ({ words }) => {
       sx={{
         padding: '1rem',
         minWidth: {
-          sm: '100vw',
-          sx: '60rem',
+          xs: '100vw',
+          sm: '60rem',
         },
         minHeight: '30rem',
         display: 'flex',
